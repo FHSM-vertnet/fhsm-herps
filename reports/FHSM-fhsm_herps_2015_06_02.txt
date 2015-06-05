@@ -1,0 +1,170 @@
+Report for Institution Code FHSM, Resource fhsm_herps
+Usage stats for May, 2015, generated on 2015/06/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 71
+Number of records retrieved in searches: 718
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 2
+	Country: Australia ; Times: 2
+	Country: United States ; Times: 64
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-21 ; Times: 2
+	Date: 2015-05-22 ; Times: 18
+	Date: 2015-05-23 ; Times: 8
+	Date: 2015-05-25 ; Times: 5
+	Date: 2015-05-26 ; Times: 1
+	Date: 2015-05-27 ; Times: 19
+	Date: 2015-05-28 ; Times: 4
+	Date: 2015-05-30 ; Times: 12
+	Date: 2015-05-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "sistrurus ellis kansas" ; Times: 1
+	Query: "thamnophis sirtalis dakota" ; Times: 1
+	Query: "thamnophis sirtalis nebraska" ; Times: 1
+	Query: "Plethodon fourchensis" ; Times: 1
+	Query: "11092" ; Times: 1
+	Query: "10270" ; Times: 1
+	Query: "pulchra warren" ; Times: 1
+	Query: ""hurterii" stateprovince:"Texas"" ; Times: 1
+	Query: ""molossus" stateprovince:"Texas"" ; Times: 1
+	Query: "Necturus beyeri" ; Times: 1
+	Query: "radix russell kansas" ; Times: 1
+	Query: "Charina bottae" ; Times: 2
+	Query: "Plethodon caddoensis" ; Times: 1
+	Query: "radix ellis kansas" ; Times: 1
+	Query: "kinosternon russell kansas" ; Times: 1
+	Query: "genus:Regina (tissue)" ; Times: 3
+	Query: "Eurycea longicauda and Ohio" ; Times: 1
+	Query: "henshawi county:"Riverside" class:reptilia" ; Times: 1
+	Query: "septentrionalis ellis kansas" ; Times: 1
+	Query: "nasicus ellis kansas" ; Times: 1
+	Query: "gerrhonotus stateprovince:"texas"" ; Times: 6
+	Query: "chrysemys tissue:1" ; Times: 2
+	Query: "Lichanura" ; Times: 3
+	Query: "whooping crane" ; Times: 2
+	Query: "sistrurus russell kansas" ; Times: 1
+	Query: "Agkistrodon contortrix stateprovince:"Tennessee"" ; Times: 2
+	Query: "Desmognathus folkertsi" ; Times: 3
+	Query: "kinosternon ellis kansas" ; Times: 2
+	Query: ""FHSM-H"" ; Times: 1
+	Query: "Desmognathus apalachicolae" ; Times: 1
+	Query: "Hypsiglena Kansas" ; Times: 2
+	Query: "crotalus scutulatus" ; Times: 3
+	Query: "Anura stateprovince:"Kentucky" year >= 1990 year <= 2015" ; Times: 2
+	Query: "catalognumber:16156" ; Times: 1
+	Query: "county:"terrell" stateprovince:"Texas" country:"United States" genus:crotalus" ; Times: 1
+	Query: "nasicus russell kansas" ; Times: 1
+	Query: "11093" ; Times: 1
+	Query: ""regina septemvittata" type:specimen tissue:1" ; Times: 1
+	Query: "coluber flagellum" ; Times: 1
+	Query: "Plethodon websteri stateprovince:"Mississippi"" ; Times: 1
+	Query: "specificepithet:septemvittata genus:Regina tissue:1" ; Times: 1
+	Query: "Tantilla tissue:1" ; Times: 2
+	Query: "Rhinocheilus county:"Riverside" stateprovince:"California"" ; Times: 1
+	Query: "Amphiuma pholeter" ; Times: 1
+	Query: "septentrionalis russell kansas" ; Times: 1
+	Query: "micrurus tener" ; Times: 2
+	Query: "bothriechis nigroviridis" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 52 (out of 976 download events in this period)
+Total number of records downloaded: 2989 (out of 7910366 records downloaded for all resources in this period)
+Total number of unique records downloaded: 2942
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 4
+	Country: United States ; Times: 47
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-21 ; Times: 22
+	Date: 2015-05-22 ; Times: 2
+	Date: 2015-05-23 ; Times: 2
+	Date: 2015-05-24 ; Times: 2
+	Date: 2015-05-25 ; Times: 10
+	Date: 2015-05-26 ; Times: 4
+	Date: 2015-05-27 ; Times: 2
+	Date: 2015-05-28 ; Times: 1
+	Date: 2015-05-29 ; Times: 5
+	Date: 2015-05-30 ; Times: 1
+	Date: 2015-05-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Hyla eximia" ; Times: 1
+	Query: "Plethodon fourchensis" ; Times: 1
+	Query: "Desmognathus ochrophaeus" ; Times: 1
+	Query: "Aneides aeneus" ; Times: 1
+	Query: "rhinocheilus lecontei" ; Times: 1
+	Query: "Necturus beyeri" ; Times: 1
+	Query: "ambystoma gracile" ; Times: 1
+	Query: "Pseudacris brachyphona" ; Times: 1
+	Query: "sceloporus magister" ; Times: 1
+	Query: "elapidae" ; Times: 3
+	Query: "Plethodon caddoensis" ; Times: 1
+	Query: "callisaurus draconoides" ; Times: 1
+	Query: "Plethodon ouachitae" ; Times: 1
+	Query: "scaphiopus couchii" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "crotaphytus collaris" ; Times: 1
+	Query: "phrynosoma platyrhinos" ; Times: 1
+	Query: "aspidoscelis tigris" ; Times: 1
+	Query: "Charina" ; Times: 1
+	Query: "anaxyrus cognatus" ; Times: 1
+	Query: "ambystoma mavortium" ; Times: 1
+	Query: "chrysemys tissue:1" ; Times: 1
+	Query: "charina bottae" ; Times: 1
+	Query: "Lichanura" ; Times: 1
+	Query: "plethodon vehiculum" ; Times: 1
+	Query: "subocularis" ; Times: 1
+	Query: "Desmognathus fuscus" ; Times: 1
+	Query: "Plethodon dorsalis" ; Times: 1
+	Query: "crotalus cerastes" ; Times: 1
+	Query: "phrynosoma hernandesi" ; Times: 1
+	Query: "Hemidactylium scutatum" ; Times: 1
+	Query: "thamnophis cyrtopsis" ; Times: 1
+	Query: "masticophis flagellum" ; Times: 1
+	Query: "gambelia wislizenii" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 2
+	Query: "Plestiodon" ; Times: 1
+	Query: "genus:crotalus class:reptilia" ; Times: 1
+	Query: "Plethodon websteri" ; Times: 1
+	Query: "salvadora hexalepis" ; Times: 1
+	Query: "Graptemys geographica" ; Times: 1
+	Query: "arizona elegans" ; Times: 1
+	Query: "coluber flagellum" ; Times: 1
+	Query: "hyla arenicolor" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "Plethodon websteri stateprovince:"Mississippi"" ; Times: 1
+	Query: "elapidae mappable:1" ; Times: 1
+	Query: "ambystoma gracile stateprovince:"Oregon"" ; Times: 1
+	Query: "Amphiuma pholeter" ; Times: 1
+	Query: "Desmognathus apalachicolae" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 71
+Total number of records retrieved from searches: 718
+Number of download events that retrieved data from the resource: 52
+Total number of records downloaded: 2989
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 71
+Total number of records retrieved from searches: 718
+Number of download events that retrieved data from the resource: 52
+Total number of records downloaded: 2989
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
