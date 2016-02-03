@@ -1,0 +1,122 @@
+Report for Institution Code FHSM, Resource fhsm_herps
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 43
+Number of records retrieved in searches: 390
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 43
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-08 ; Times: 3
+	Date: 2015-12-22 ; Times: 1
+	Date: 2015-12-01 ; Times: 1
+	Date: 2015-12-07 ; Times: 2
+	Date: 2015-12-30 ; Times: 1
+	Date: 2015-12-04 ; Times: 4
+	Date: 2015-12-14 ; Times: 8
+	Date: 2015-12-15 ; Times: 2
+	Date: 2015-12-23 ; Times: 1
+	Date: 2015-12-17 ; Times: 5
+	Date: 2015-12-11 ; Times: 2
+	Date: 2015-12-24 ; Times: 2
+	Date: 2015-12-18 ; Times: 3
+	Date: 2015-12-19 ; Times: 7
+	Date: 2015-12-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Reptilia county:&#34;Leavenworth&#34; stateprovince:&#34;Kansas&#34; (Fort Leavenworth)" ; Times: 1
+	Query: "Podarcis siculus" ; Times: 1
+	Query: "Pantherophis slowinskii" ; Times: 1
+	Query: "Pantherophis bairdi" ; Times: 1
+	Query: "ambystoma tigrinum (Alabama OR ALABAMA OR AL OR Al)" ; Times: 1
+	Query: "genus:ambystoma order:caudata stateprovince:&#34;ohio&#34; month &gt;= 1 month &lt;= 11" ; Times: 1
+	Query: "genus:Desmognathus specificepithet:conanti" ; Times: 1
+	Query: "class:Amphibia county:&#34;Leavenworth&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "catalognumber:1017" ; Times: 3
+	Query: "specificepithet:solare genus:Phrynosoma tissue:1" ; Times: 1
+	Query: "hemidactylus turcicus kansas" ; Times: 2
+	Query: "class:reptilia distance(location,geopoint(37.636333033486615,-84.2431640625))&lt;54631" ; Times: 1
+	Query: "genus:Pseudacris stateprovince:&#34;Georgia&#34; year &gt;= 2005 year &lt;= 2015 mappable:1" ; Times: 1
+	Query: "genus:Thamnophis class:Reptilia county:&#34;Leavenworth&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "Pseudacris ornata" ; Times: 1
+	Query: "class:reptilia county:&#34;hamilton&#34; stateprovince:&#34;ohio&#34; AND (NOT sirtalis) year &gt;= 1980" ; Times: 1
+	Query: "class:reptilia county:&#34;hamilton&#34; stateprovince:&#34;ohio&#34; AND (NOT sirtalis NOT podarcis) year &gt;= 1980" ; Times: 1
+	Query: "class:reptilia county:&#34;hamilton&#34; stateprovince:&#34;ohio&#34; AND (NOT cinereus) year &gt;= 1980" ; Times: 1
+	Query: "class:Reptilia county:&#34;Leavenworth&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "Tantilla nigriceps" ; Times: 1
+	Query: "(Reptilia Amphibia) institutioncode:FHSM" ; Times: 1
+	Query: "class:amphibia county:&#34;gibson&#34; stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "plestiodon fasciatus year &gt;= 1990 year &lt;= 2015" ; Times: 2
+	Query: "genus:plestiodon class:Reptilia county:&#34;Leavenworth&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "Bothriechis nigroviridis" ; Times: 2
+	Query: "louisiana lake bistineau" ; Times: 1
+	Query: "Kinosternon sonoriense" ; Times: 2
+	Query: "genus:Lampropeltis class:Reptilia stateprovince:&#34;Pennsylvania&#34; institutioncode:FHSM" ; Times: 1
+	Query: "class:Reptilia county:&#34;Leavenworth&#34; stateprovince:&#34;Kansas&#34; (Ft. Leavenworth)" ; Times: 2
+	Query: "genus:Phrynosoma tissue:1" ; Times: 3
+	Query: "Terrapene ornata Kansas" ; Times: 1
+	Query: "Pantherophis emoryi" ; Times: 1
+	Query: "Lampropeltis nigra" ; Times: 1
+	Query: "sternotherus tissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 39 (out of 889 download events in this period)
+Total number of records downloaded: 2442
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 39
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-09 ; Times: 2
+	Date: 2015-12-01 ; Times: 7
+	Date: 2015-12-07 ; Times: 1
+	Date: 2015-12-23 ; Times: 1
+	Date: 2015-12-17 ; Times: 17
+	Date: 2015-12-10 ; Times: 5
+	Date: 2015-12-24 ; Times: 1
+	Date: 2015-12-18 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Gyrinophilus porphyriticus" ; Times: 5
+	Query: "Pantherophis slowinskii" ; Times: 1
+	Query: "Pantherophis bairdi" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "Nerodia cyclopion" ; Times: 1
+	Query: "Nerodia floridana" ; Times: 1
+	Query: "Plestiodon gilberti" ; Times: 1
+	Query: "Pseudacris regilla" ; Times: 1
+	Query: "gyrinophilus porphyriticus" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "Nerodia fasciata" ; Times: 1
+	Query: "Plestiodon skiltonianus" ; Times: 1
+	Query: "nerodia sipedon" ; Times: 1
+	Query: "spea" ; Times: 1
+	Query: "Kinosternon" ; Times: 1
+	Query: "Sceloporus consobrinus" ; Times: 1
+	Query: "Masticophis flagellum" ; Times: 1
+	Query: "Rana aurora" ; Times: 1
+	Query: "Pantherophis obsoletus" ; Times: 1
+	Query: "Pseudacris cadaverina" ; Times: 1
+	Query: "Hyla regilla" ; Times: 1
+	Query: "Anaxyrus boreas" ; Times: 2
+	Query: "Bothriechis nigroviridis" ; Times: 1
+	Query: "Pantherophis alleghaniensis" ; Times: 1
+	Query: "Trachemys scripta" ; Times: 1
+	Query: "Pantherophis emoryi" ; Times: 1
+	Query: "Pseudobranchus" ; Times: 1
+	Query: "Sceloporus orcutti" ; Times: 1
+	Query: "scaphiopus" ; Times: 1
+	Query: "Nerodia rhombifer" ; Times: 1
+	Query: "ambystoma tigrinum" ; Times: 1
+	Query: "Lampropeltis getula" ; Times: 1
+	Query: "Nerodia sipedon" ; Times: 1
+	Query: "Sceloporus undulatus" ; Times: 1
+
+
+End of report.
