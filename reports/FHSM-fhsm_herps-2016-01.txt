@@ -1,0 +1,111 @@
+Report for Institution Code FHSM, Resource fhsm_herps
+Usage stats for January 2016, generated on 2016/02/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 37
+Number of records retrieved in searches: 267
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 37
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-22 ; Times: 2
+	Date: 2016-01-05 ; Times: 3
+	Date: 2016-01-20 ; Times: 3
+	Date: 2016-01-07 ; Times: 3
+	Date: 2016-01-02 ; Times: 1
+	Date: 2016-01-04 ; Times: 1
+	Date: 2016-01-25 ; Times: 8
+	Date: 2016-01-08 ; Times: 3
+	Date: 2016-01-09 ; Times: 1
+	Date: 2016-01-19 ; Times: 2
+	Date: 2016-01-18 ; Times: 1
+	Date: 2016-01-13 ; Times: 1
+	Date: 2016-01-12 ; Times: 4
+	Date: 2016-01-11 ; Times: 1
+	Date: 2016-01-16 ; Times: 1
+	Date: 2016-01-15 ; Times: 1
+	Date: 2016-01-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "ficimia texas" ; Times: 1
+	Query: "Plethodon variolatus" ; Times: 2
+	Query: "Salvadora California inyo" ; Times: 1
+	Query: "Coleonyx tissue:1" ; Times: 1
+	Query: "eurycea lucifuga illinois" ; Times: 1
+	Query: "regina septemvittata tissue:1" ; Times: 1
+	Query: "12113" ; Times: 1
+	Query: "Desmognathus folkertsi" ; Times: 1
+	Query: "Plethodon angusticlavius" ; Times: 1
+	Query: "stateprovince:&#34;Kansas&#34; year &gt;= 2005 year &lt;= 2015 tissue:1" ; Times: 2
+	Query: "urosaurus mappable:1 tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:obsoleta genus:Pantherophis" ; Times: 1
+	Query: "lampropeltis getula stateprovince:&#34;north carolina&#34; (&#34;currituck&#34; OR &#34;hyde&#34; OR &#34;carteret&#34;)" ; Times: 1
+	Query: "order:Squamata county:&#34;San Diego&#34; tissue:1" ; Times: 1
+	Query: "Crotalus scutulatus Nevada" ; Times: 1
+	Query: "Chionactis occipitalis Nevada" ; Times: 1
+	Query: "Farancia abacura" ; Times: 4
+	Query: "county:&#34;Franklin&#34; stateprovince:&#34;Arkansas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "lichanura trivirgata" ; Times: 1
+	Query: "type:specimen specificepithet:guttatus genus:pantherophis" ; Times: 1
+	Query: "Farancia abacura Texas" ; Times: 1
+	Query: "Plestiodon anthracinus" ; Times: 1
+	Query: "Tantilla nigriceps" ; Times: 1
+	Query: "specificepithet:variegatus genus:Coleonyx county:&#34;pima&#34; stateprovince:&#34;arizona&#34;" ; Times: 2
+	Query: "Ophisaurus year &gt;= 2010 year &lt;= 2016" ; Times: 1
+	Query: "class:Reptilia county:&#34;Sedgwick&#34; stateprovince:&#34;Kansas&#34; mappable:1" ; Times: 1
+	Query: "Sistrurus miliarius miliarius" ; Times: 1
+	Query: "&#34;spea&#34; type:specimen mappable:1 tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:emoryi genus:pantherophis" ; Times: 1
+	Query: "county:&#34;Franklin&#34; stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "Leptotyphlopidae tissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 24 (out of 507 download events in this period)
+Total number of records downloaded: 4611
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 22
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-30 ; Times: 2
+	Date: 2016-01-21 ; Times: 2
+	Date: 2016-01-27 ; Times: 3
+	Date: 2016-01-28 ; Times: 4
+	Date: 2016-01-29 ; Times: 3
+	Date: 2016-01-19 ; Times: 4
+	Date: 2016-01-18 ; Times: 1
+	Date: 2016-01-13 ; Times: 1
+	Date: 2016-01-12 ; Times: 1
+	Date: 2016-01-16 ; Times: 1
+	Date: 2016-01-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "lichanura" ; Times: 1
+	Query: "Hyla eximia" ; Times: 1
+	Query: "genus:Rana class:Amphibia mappable:1 stateprovince:Oregon" ; Times: 1
+	Query: "class:Amphibia stateprovince:Oregon" ; Times: 1
+	Query: "spea hammondii" ; Times: 1
+	Query: "genus:Rana class:Amphibia stateprovince:Oregon" ; Times: 1
+	Query: "Crotalus scutulatus Nevada" ; Times: 1
+	Query: "sagrei" ; Times: 1
+	Query: "Chionactis occipitalis nevada" ; Times: 1
+	Query: "Nerodia floridana" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 2
+	Query: "Boidae tissue:1" ; Times: 1
+	Query: "Nerodia fasciata" ; Times: 1
+	Query: "lichanura trivirgata" ; Times: 1
+	Query: "sphaerodactylus" ; Times: 1
+	Query: "order:caudata continent:north america" ; Times: 1
+	Query: "order:CAudata country:&#34;United States&#34;" ; Times: 4
+	Query: "genus:Plethodon class:Amphibia mappable:1 stateprovince:Oregon" ; Times: 1
+	Query: "lampropeltis getula stateprovince:&#34;north carolina&#34; (&#34;currituck&#34; OR &#34;hyde&#34; OR &#34;carteret&#34;)" ; Times: 1
+	Query: "Taricha stateprovince:&#34;California&#34;" ; Times: 1
+
+
+End of report.
