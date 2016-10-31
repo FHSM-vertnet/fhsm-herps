@@ -1,0 +1,113 @@
+Report for Institution Code FHSM, Resource fhsm_herps
+Usage stats for September 2016, generated on 2016/10/31
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 60
+Number of records retrieved in searches: 756
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 49
+	Country: Colombia ; Times: 5
+	Country: Portugal ; Times: 5
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 6
+	Date: 2016-09-12 ; Times: 2
+	Date: 2016-09-08 ; Times: 10
+	Date: 2016-09-09 ; Times: 8
+	Date: 2016-09-14 ; Times: 5
+	Date: 2016-09-04 ; Times: 4
+	Date: 2016-09-05 ; Times: 1
+	Date: 2016-09-06 ; Times: 3
+	Date: 2016-09-07 ; Times: 12
+	Date: 2016-09-26 ; Times: 1
+	Date: 2016-09-01 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "14798" ; Times: 1
+	Query: "Agkistrodon piscivorus specificepithet:piscivorus genus:Agkistrodon year &gt;= 1980 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "Chrysemys picta 1" ; Times: 1
+	Query: "Eurycea quadridigitata stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "order:Squamata institutioncode:FHSM tissue:1" ; Times: 2
+	Query: "specificepithet:viridis genus:crotalus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Pantherophis spiloides specificepithet:spiloides genus:Pantherophis mappable:1" ; Times: 1
+	Query: "FHSU agkistrodon" ; Times: 1
+	Query: "specificepithet:brachystoma locality:erie county:&#34;erie&#34; stateprovince:&#34;pennsylvania&#34;" ; Times: 1
+	Query: "crotalus lepidus" ; Times: 1
+	Query: "Pantherophis ramspotti specificepithet:ramspotti genus:Pantherophis mappable:1" ; Times: 1
+	Query: "specificepithet:horridus genus:crotalus stateprovince:&#34;alabama&#34; mappable:1" ; Times: 1
+	Query: "12359" ; Times: 1
+	Query: "Anolis sagrei sagrei  1" ; Times: 2
+	Query: "Pantherophis tissue:1" ; Times: 3
+	Query: "Pantherophis gloydi specificepithet:gloydi genus:Pantherophis mappable:1" ; Times: 1
+	Query: "lampropeltis triangulum nebraska" ; Times: 4
+	Query: "spea multiplicata new mexico" ; Times: 3
+	Query: "Pantherophis guttatus specificepithet:guttatus genus:Pantherophis mappable:1" ; Times: 1
+	Query: "Farancia abacura specificepithet:abacura genus:Farancia year &gt;= 1980 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "lampropeltis nebraska" ; Times: 3
+	Query: "chelydra tissue:1" ; Times: 1
+	Query: "pseudemys nelsoni" ; Times: 1
+	Query: "Apalone ferox 1" ; Times: 1
+	Query: "FHSU agkistrodon texas" ; Times: 1
+	Query: "stateprovince:&#34;California&#34; recordedby:Pauly" ; Times: 1
+	Query: "specificepithet:Atrox genus:Crotalus tissue:1" ; Times: 1
+	Query: "Graptemys geographica 1" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon tissue:1" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma tissue:1" ; Times: 1
+	Query: "13921" ; Times: 1
+	Query: "catalognumber:12498" ; Times: 1
+	Query: "Pantherophis emoryi specificepithet:emoryi genus:Pantherophis mappable:1" ; Times: 1
+	Query: "spea bombifrons new mexico" ; Times: 1
+	Query: "Pseudemys concinna 1" ; Times: 1
+	Query: "Pseudacris hypochondriaca" ; Times: 1
+	Query: "specificepithet:quadridigitata genus:Eurycea stateprovince:&#34;Louisiana&#34;" ; Times: 2
+	Query: "specificepithet:attenuatus genus:Ophisaurus family:Anguidae tissue:1" ; Times: 1
+	Query: "Anolis sagrei 1" ; Times: 3
+	Query: "specificepithet:attenuatus order:Squamata institutioncode:FHSM tissue:1" ; Times: 1
+	Query: "Plestiodon anthracinus specificepithet:anthracinus genus:Plestiodon mappable:1" ; Times: 1
+	Query: "Trachemys scripta 1" ; Times: 1
+	Query: "specificepithet:tigris genus:Crotalus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Eleutherodactylus cystignathoides" ; Times: 1
+	Query: "specificepithet:sagrei genus:Anolis stateprovince:&#34;Florida&#34; continent:North America mappable:1" ; Times: 1
+	Query: "specificepithet:brachystoma county:&#34;erie&#34; stateprovince:&#34;pennsylvania&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 811 download events in this period)
+Total number of records downloaded: 155
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 6
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 2
+	Date: 2016-09-12 ; Times: 1
+	Date: 2016-09-09 ; Times: 5
+	Date: 2016-09-14 ; Times: 2
+	Date: 2016-09-05 ; Times: 1
+	Date: 2016-09-06 ; Times: 1
+	Date: 2016-09-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "hyla eximia" ; Times: 1
+	Query: "Incilius valliceps" ; Times: 1
+	Query: "Agkistrodon piscivorus specificepithet:piscivorus genus:Agkistrodon year &gt;= 1980 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "Pantherophis tissue:1" ; Times: 1
+	Query: "spea hammondii" ; Times: 1
+	Query: "anaxyrus punctatus" ; Times: 1
+	Query: "specificepithet:quadridigitata genus:Eurycea stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "hyla arenicolor" ; Times: 1
+	Query: "tadpole" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "order:Testudines stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "ambystoma tigrinum" ; Times: 1
+	Query: "specificepithet:sagrei genus:Anolis stateprovince:&#34;Florida&#34; continent:North America mappable:1" ; Times: 1
+
+
+End of report.
