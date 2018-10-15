@@ -1,0 +1,181 @@
+Report for Institution Code FHSM, Resource fhsm_herps
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 140
+Number of records retrieved in searches: 1635
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 116
+	Country: Unknown ; Times: 19
+	Country: Sweden ; Times: 1
+	Country: China ; Times: 2
+	Country: Greece ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-16 ; Times: 8
+	Date: 2017-12-15 ; Times: 4
+	Date: 2017-12-12 ; Times: 2
+	Date: 2017-12-13 ; Times: 3
+	Date: 2017-12-11 ; Times: 3
+	Date: 2017-12-18 ; Times: 5
+	Date: 2017-12-19 ; Times: 7
+	Date: 2017-12-29 ; Times: 2
+	Date: 2017-12-26 ; Times: 1
+	Date: 2017-12-24 ; Times: 2
+	Date: 2017-12-22 ; Times: 4
+	Date: 2017-12-21 ; Times: 16
+	Date: 2017-12-20 ; Times: 2
+	Date: 2017-12-05 ; Times: 18
+	Date: 2017-12-04 ; Times: 8
+	Date: 2017-12-07 ; Times: 12
+	Date: 2017-12-06 ; Times: 9
+	Date: 2017-12-01 ; Times: 4
+	Date: 2017-12-03 ; Times: 11
+	Date: 2017-12-02 ; Times: 3
+	Date: 2017-12-09 ; Times: 1
+	Date: 2017-12-08 ; Times: 15
+
+List of queries that retrieved data from the resource: 
+	Query: "ambystoma annulatum" ; Times: 1
+	Query: "specificepithet:elapsoides genus:Lampropeltis stateprovince:&#34;South Carolina&#34; country:&#34;United States&#34; month &gt;= 3 month &lt;= 6" ; Times: 1
+	Query: "Virginia striatula stateprovince:&#34;Florida&#34; year &gt;= 2001 year &lt;= 2010" ; Times: 1
+	Query: "&#34;Plethodon kiamichi&#34;" ; Times: 2
+	Query: "specificepithet:molossus genus:crotalus hastissue:1" ; Times: 2
+	Query: "order:squamata county:&#34;pender&#34; stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "kinosternon sonoriense new mexico" ; Times: 1
+	Query: "pituophis catenifer maricopa arizona" ; Times: 1
+	Query: "13083" ; Times: 1
+	Query: "genus:Tantilla year &gt;= 2000" ; Times: 8
+	Query: "Lampropeltis getula stateprovince:&#34;North Carolina&#34;" ; Times: 2
+	Query: "specificepithet:tergeminus genus:sistrurus hastissue:1" ; Times: 1
+	Query: "Florida pituophis" ; Times: 2
+	Query: "Plethodon chlorobryonis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:chlorobryonis (craven OR jones OR pamlico OR carteret) year &gt;= 1959 mappable:1" ; Times: 1
+	Query: "eurycea spelaea kansas" ; Times: 1
+	Query: "specificepithet:guttatus genus:Pantherophis  mappable:1 year&gt;= 1998 year&lt;= 2018" ; Times: 1
+	Query: "Caudata county:&#34;Putnam&#34; stateprovince:&#34;Florida&#34; year &gt;= 1990 year &lt;= 2018" ; Times: 2
+	Query: "genus:Sceloporus county:&#34;San Diego&#34; year &gt;= 2000 year &lt;= 2017 hastissue:1" ; Times: 1
+	Query: "Plethodon fourchensis" ; Times: 1
+	Query: "specificepithet:eximia family:Hylidae hastissue:1" ; Times: 2
+	Query: "eurycea spelaea year &gt;= 1990 year &lt;= 2017" ; Times: 2
+	Query: "genus:Elgaria county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 2000 year &lt;= 2017 hastissue:1" ; Times: 1
+	Query: "Plethodon county:&#34;Clay&#34; stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "specificepithet:carolinensis genus:Anolis mappable:1 year&gt;= 1998 year&lt;= 2018" ; Times: 4
+	Query: "Reptilia county:&#34;Putnam&#34; stateprovince:&#34;Florida&#34; year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "Plethodon electromorphus" ; Times: 2
+	Query: "stateprovince:&#34;Nebraska&#34; (&#34;lithobates blairi&#34; OR &#34;rana blairi&#34; OR &#34;rana pipiens pipiens&#34; OR &#34;rana pipiens brachycephala&#34; OR &#34;rana pipiens berlandieri&#34; OR &#34;rana halecina&#34;) year &gt;= 1971" ; Times: 1
+	Query: "family=Rhineuridae year&gt;2000" ; Times: 1
+	Query: "crotalus cerastes maricopa arizona" ; Times: 1
+	Query: "Timberwolf" ; Times: 1
+	Query: "aspidoscelis stateprovince:&#34;California&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "specificepithet:emoryi genus:Pantherophis stateprovince:&#34;Kansas&#34; hastissue:1" ; Times: 1
+	Query: "family=Rhineuridae year&gt;2000 hastissue=1" ; Times: 1
+	Query: "Ambystoma annulatum washington arkansas" ; Times: 1
+	Query: "specificepithet:catesbeianus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:carolina genus:Terrapene mappable:1 year&gt;= 1998 year&lt;= 2018" ; Times: 3
+	Query: "specificepithet:aeneus genus:aneides hastissue:1" ; Times: 1
+	Query: "creek family:Boidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "gbifdatasetid:84e823d2-f762-11e1-a439-00145eb45e9a" ; Times: 4
+	Query: "class:amphibia county:&#34;Muskogee&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "specificepithet:solare genus:Phrynosoma stateprovince:&#34;Arizona&#34; country:&#34;United States&#34; month &lt;= 520" ; Times: 1
+	Query: "plethodon websteri" ; Times: 1
+	Query: "genus:Plethodon stateprovince:&#34;Louisiana&#34; year &gt;= 1990" ; Times: 1
+	Query: "specificepithet:lepidus genus:crotalus hastissue:1" ; Times: 1
+	Query: "Virginia striatula stateprovince:&#34;Florida&#34; year &gt;= 1990 year &lt;= 2017" ; Times: 1
+	Query: "genus:Podarcis year &gt;= 1980 hastissue:1" ; Times: 2
+	Query: "Museum of Cultural and Natural History" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "genus:Cemophora stateprovince:&#34;South Carolina&#34; country:&#34;United States&#34; month &gt;= 3 month &lt;= 6" ; Times: 1
+	Query: "podarcis siculus" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Anolis  mappable:1 year&gt;= 1998 year&lt;= 2018" ; Times: 2
+	Query: "Apalone mutica institutioncode:FHSM" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "PLESTIODON FASCIATUS missouri" ; Times: 1
+	Query: "Pituophis melanoleucus north carolina" ; Times: 1
+	Query: "Virginia striatula stateprovince:&#34;Florida&#34; year &gt;= 1991 year &lt;= 2017" ; Times: 1
+	Query: "specificepithet:scripta genus:Trachemys mappable:1 year&gt;= 1998 year&lt;= 2018" ; Times: 5
+	Query: "Pituophis stateprovince:&#34;Florida&#34;" ; Times: 5
+	Query: "Plethodon angusticlavius year &gt;= 1990 year &lt;= 2017" ; Times: 1
+	Query: "timberwolf" ; Times: 1
+	Query: "Ambystoma annulatum Arkansas" ; Times: 1
+	Query: "Plethodon kiamichi" ; Times: 1
+	Query: "PLESTIODON FASCIATUS kansas" ; Times: 2
+	Query: "genus:lampropeltis county:&#34;carteret&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "specificepithet:undulatus genus:Sceloporus year &gt;= 2000 year &lt;= 2017 hastissue:1" ; Times: 1
+	Query: "Notophthalmus stateprovince:&#34;Florida&#34; year &gt;= 1990 year &lt;= 2018" ; Times: 2
+	Query: "Sternotherus odoratus Montgomery County" ; Times: 1
+	Query: "Plethodon sequoyah" ; Times: 1
+	Query: "Plestiodon fasciatus missouri" ; Times: 1
+	Query: "genus:Pseudacris ocularis stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "specificepithet:guttatus genus:Pantherophis mappable:1 year&gt;= 1998 year&lt;= 2018" ; Times: 4
+	Query: "Eurycea quadridigitata Louisiana" ; Times: 2
+	Query: "16622" ; Times: 1
+	Query: "Virginia striatula stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "Plethodon caddoensis" ; Times: 1
+	Query: "specificepithet:lepidus genus:Crotalus" ; Times: 1
+	Query: "specificepithet:semiannulata genus:Sonora county:&#34;Inyo&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Micruroides euryxanthus" ; Times: 2
+	Query: "genus:farancia county:&#34;scotland&#34; stateprovince:&#34;North carolina&#34;" ; Times: 1
+	Query: "Plethodon ouachitae Arkansas Polk" ; Times: 2
+	Query: "Crotalus lepidus hidalgo county" ; Times: 2
+	Query: "Charina trivirgata" ; Times: 2
+	Query: "catalognumber:9995" ; Times: 1
+	Query: "anaxyrus retiformis" ; Times: 2
+	Query: "genus:crotalus horridus stateprovince:&#34;North Carolina&#34;" ; Times: 2
+	Query: "Acris blanchardi stateprovince:&#34;Nebraska&#34;" ; Times: 2
+	Query: "class:Amphibia stateprovince:&#34;louisiana&#34; year &gt;= 1990 distance(location,geopoint(30.277807189378905,-89.74628448486328))&lt;100000" ; Times: 1
+	Query: "family:Viperidae county:&#34;Pinal&#34;" ; Times: 1
+	Query: "Lampropeltis holbrooki" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 674 download events in this period)
+Total number of records downloaded: 1590
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 20
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-26 ; Times: 1
+	Date: 2017-12-24 ; Times: 2
+	Date: 2017-12-05 ; Times: 2
+	Date: 2017-12-14 ; Times: 1
+	Date: 2017-12-01 ; Times: 2
+	Date: 2017-12-13 ; Times: 10
+	Date: 2017-12-03 ; Times: 1
+	Date: 2017-12-02 ; Times: 1
+	Date: 2017-12-18 ; Times: 2
+	Date: 2017-12-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Phrynosomatidae stateprovince:&#34;California&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "Callisaurus draconoides" ; Times: 1
+	Query: "Uta stansburiana" ; Times: 1
+	Query: "Aspidoscelis tigris" ; Times: 1
+	Query: "family:Anguidae stateprovince:&#34;California&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "Sauromalus ater vntype:specimen hastissue:1" ; Times: 1
+	Query: "vntype:specimen (Idaho Reptilia ) year &gt;= 1990 year &lt;= 2017" ; Times: 1
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "stateprovince:&#34;Nebraska&#34; (&#34;lithobates blairi&#34; OR &#34;rana blairi&#34; OR &#34;rana pipiens pipiens&#34; OR &#34;rana pipiens brachycephala&#34; OR &#34;rana pipiens berlandieri&#34; OR &#34;rana halecina&#34;) year &gt;= 1971" ; Times: 1
+	Query: "plestiodon inexpectatus" ; Times: 1
+	Query: "Phrynosoma" ; Times: 1
+	Query: "anolis carolinensis" ; Times: 1
+	Query: "Charina trivirgata" ; Times: 1
+	Query: "gambelia wislizenii" ; Times: 1
+	Query: "family:Boidae stateprovince:&#34;California&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "plestiodon laticeps" ; Times: 1
+	Query: "Aspidoscelis" ; Times: 2
+	Query: "anolis sagrei" ; Times: 1
+	Query: "vntype:specimen specificepithet:cognatus genus:Anaxyrus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "family:Phrynosomatidae stateprovince:&#34;Arizona&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "Acris blanchardi stateprovince:&#34;Nebraska&#34;" ; Times: 1
+
+
+End of report.
