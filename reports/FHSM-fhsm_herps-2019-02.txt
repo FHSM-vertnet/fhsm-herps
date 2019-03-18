@@ -1,0 +1,144 @@
+Report for Institution Code FHSM, Resource fhsm_herps
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 79
+Number of records retrieved in searches: 793
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Israel ; Times: 2
+	Country: Netherlands ; Times: 2
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 65
+	Country: Sweden ; Times: 4
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-11 ; Times: 3
+	Date: 2019-02-03 ; Times: 11
+	Date: 2019-02-18 ; Times: 5
+	Date: 2019-02-04 ; Times: 3
+	Date: 2019-02-10 ; Times: 3
+	Date: 2019-02-13 ; Times: 1
+	Date: 2019-02-22 ; Times: 1
+	Date: 2019-02-12 ; Times: 2
+	Date: 2019-02-25 ; Times: 3
+	Date: 2019-02-26 ; Times: 4
+	Date: 2019-02-27 ; Times: 5
+	Date: 2019-02-20 ; Times: 8
+	Date: 2019-02-07 ; Times: 8
+	Date: 2019-02-17 ; Times: 3
+	Date: 2019-02-23 ; Times: 5
+	Date: 2019-02-19 ; Times: 1
+	Date: 2019-02-06 ; Times: 2
+	Date: 2019-02-08 ; Times: 2
+	Date: 2019-02-28 ; Times: 7
+	Date: 2019-02-01 ; Times: 1
+	Date: 2019-02-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:fowleri genus:Anaxyrus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Aspidoscelis flagellicaudus" ; Times: 1
+	Query: "specificepithet:Holbrookii genus:Scaphiopus year &gt;= 1990 hastissue:1" ; Times: 1
+	Query: "specificepithet:henshawi genus:Xantusia year &gt;= 1990" ; Times: 1
+	Query: "Amphiuma tridactylum" ; Times: 1
+	Query: "specificepithet:Holbrookii genus:Scaphiopus hastissue:1" ; Times: 2
+	Query: "genus:Crotalus stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "genus:Ambystoma stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "specificepithet:horridus stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "specificepithet:emoryi genus:Pantherophis institutioncode:FHSM" ; Times: 3
+	Query: "specificepithet:atrox stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "Aspidoscelis neotesselatus" ; Times: 1
+	Query: "pantherophis slowinskii" ; Times: 2
+	Query: "13463" ; Times: 1
+	Query: "Aneides kentucky" ; Times: 1
+	Query: "genus:Ophisaurus hastissue:1" ; Times: 1
+	Query: "12010" ; Times: 1
+	Query: "genus:Salvadora hastissue:1" ; Times: 2
+	Query: "genus:Crotalus stateprovince:&#34;Alabama&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "amphiuma tridactylum" ; Times: 4
+	Query: "specificepithet:miliarius genus:sistrurus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Lithobates chiricahuensis" ; Times: 1
+	Query: "genus:Plestiodon county:&#34;Inyo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "brachyphona year &gt;= 1980" ; Times: 5
+	Query: "catalognumber:1700" ; Times: 1
+	Query: "Micruroides arizona" ; Times: 3
+	Query: "rattle snake" ; Times: 1
+	Query: "specificepithet:holbrookii genus:Scaphiopus year &gt;= 1990 hastissue:1" ; Times: 1
+	Query: "specificepithet:platirhinos genus:Heterodon stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "genus:Crotalus molossus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Lichanura mappable:1" ; Times: 1
+	Query: "brachyphona" ; Times: 1
+	Query: "genus:Plestiodon stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "brachyphona year &gt;= 1990" ; Times: 3
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:siren AND (florida) hastissue:1" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus hastissue:1" ; Times: 2
+	Query: "Plestiodon anthracinus" ; Times: 2
+	Query: "genus:Scaphiopus stateprovince:&#34;Florida&#34; year &gt;= 1990 hastissue:1" ; Times: 1
+	Query: "class:amphibia county:&#34;otsego&#34; stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "genus:Crotalus stateprovince:&#34;Arkansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "(Vassar)" ; Times: 1
+	Query: "13701" ; Times: 1
+	Query: "brachyphona year &gt;= 2005" ; Times: 1
+	Query: "gbifdatasetid:84e823d2-f762-11e1-a439-00145eb45e9a" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus hastissue:1" ; Times: 1
+	Query: "crotalus tigris" ; Times: 2
+	Query: "pituophis stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "brachyphona year &gt;= 2000" ; Times: 1
+	Query: "genus:Crotalus stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Scaphiopus stateprovince:&#34;Florida&#34; hastissue:1" ; Times: 1
+	Query: "genus:Eleutherodactylus specificepithet:cystignathoides" ; Times: 1
+	Query: "genus:siren hastissue:1" ; Times: 6
+	Query: "genus:Sistrurus stateprovince:&#34;texas&#34;" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 28 (out of 1227 download events in this period)
+Total number of records downloaded: 303
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 21
+	Country: Brazil ; Times: 2
+	Country: Israel ; Times: 4
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-27 ; Times: 1
+	Date: 2019-02-05 ; Times: 2
+	Date: 2019-02-11 ; Times: 11
+	Date: 2019-02-13 ; Times: 2
+	Date: 2019-02-12 ; Times: 1
+	Date: 2019-02-06 ; Times: 3
+	Date: 2019-02-04 ; Times: 3
+	Date: 2019-02-16 ; Times: 2
+	Date: 2019-02-19 ; Times: 1
+	Date: 2019-02-20 ; Times: 1
+	Date: 2019-02-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "xantusia vigilis" ; Times: 1
+	Query: "Aspidoscelis neotesselatus" ; Times: 1
+	Query: "specificepithet:Aestivus genus:Opheodrys" ; Times: 1
+	Query: "specificepithet:marcianus genus:Thamnophis" ; Times: 1
+	Query: "Alligator mississippiensis vntype:specimen" ; Times: 1
+	Query: "genus:Ophisaurus hastissue:1" ; Times: 1
+	Query: "Aspidoscelis flagellicaudus" ; Times: 1
+	Query: "Plethodon electromorphus" ; Times: 1
+	Query: "deirochelys" ; Times: 2
+	Query: "genus:Ambystoma specificepithet:texanum" ; Times: 1
+	Query: "brachyphona" ; Times: 1
+	Query: "Phrynosoma platyrhinos" ; Times: 1
+	Query: "specificepithet:nasicus genus:Heterodon" ; Times: 1
+	Query: "specificepithet:biscutatus genus:Trimorphodon" ; Times: 1
+	Query: "Aspidoscelis velox" ; Times: 1
+	Query: "genus:Sauromalus" ; Times: 11
+	Query: "hastissue:1 AND Sumatra AND Reptilia" ; Times: 1
+
+
+End of report.
