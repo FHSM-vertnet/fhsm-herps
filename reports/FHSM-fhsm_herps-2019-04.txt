@@ -1,0 +1,193 @@
+Report for Institution Code FHSM, Resource fhsm_herps
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 129
+Number of records retrieved in searches: 1633
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 8
+	Country: United States ; Times: 101
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 6
+	Country: Switzerland ; Times: 1
+	Country: Argentina ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 3
+	Date: 2019-04-19 ; Times: 6
+	Date: 2019-04-18 ; Times: 4
+	Date: 2019-04-12 ; Times: 1
+	Date: 2019-04-11 ; Times: 1
+	Date: 2019-04-10 ; Times: 8
+	Date: 2019-04-17 ; Times: 15
+	Date: 2019-04-16 ; Times: 5
+	Date: 2019-04-15 ; Times: 11
+	Date: 2019-04-14 ; Times: 10
+	Date: 2019-04-30 ; Times: 6
+	Date: 2019-04-01 ; Times: 2
+	Date: 2019-04-03 ; Times: 10
+	Date: 2019-04-22 ; Times: 2
+	Date: 2019-04-23 ; Times: 7
+	Date: 2019-04-20 ; Times: 2
+	Date: 2019-04-21 ; Times: 3
+	Date: 2019-04-26 ; Times: 13
+	Date: 2019-04-27 ; Times: 6
+	Date: 2019-04-24 ; Times: 7
+	Date: 2019-04-25 ; Times: 1
+	Date: 2019-04-29 ; Times: 2
+	Date: 2019-04-08 ; Times: 1
+	Date: 2019-04-09 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Coluber flagellum mappable:1" ; Times: 1
+	Query: "class:Reptilia county:&#34;Lincoln&#34; stateprovince:&#34;Nebraska&#34;" ; Times: 2
+	Query: "class:Reptilia county:&#34;Jefferson&#34; stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "specificepithet:Gentilis stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "order:Squamata class:Reptilia county:&#34;Stafford&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Buffalo&#34; stateprovince:&#34;Nebraska&#34;" ; Times: 2
+	Query: "specificepithet:tergeminus genus:Sistrurus stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 4
+	Query: "order:Squamata class:Reptilia county:&#34;Thomas&#34; stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;Florida&#34;" ; Times: 8
+	Query: "specificepithet:Gentilis genus:Lampropeltis stateprovince:&#34;Oklahoma&#34;" ; Times: 5
+	Query: "specificepithet:texanum genus:ambystoma stateprovince:&#34;missouri&#34;" ; Times: 2
+	Query: "catalognumber:1297" ; Times: 2
+	Query: "order:Squamata class:Reptilia county:&#34;Dundy&#34; stateprovince:&#34;Nebraska&#34;" ; Times: 2
+	Query: "Senticolis triaspis mappable:1" ; Times: 1
+	Query: "specificepithet:catesbeianus hastissue:1" ; Times: 4
+	Query: "specificepithet:tergeminus genus:Sistrurus county:&#34;Wichita&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "class:reptilia county:&#34;Erie&#34; stateprovince:&#34;Pennsylvania&#34;" ; Times: 2
+	Query: "class:Reptilia county:&#34;Stafford&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "specificepithet:holbrookii genus:Scaphiopus year &gt;= 1990 hastissue:1" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:annulatum" ; Times: 1
+	Query: "Trimorphodon biscutatus mappable:1" ; Times: 1
+	Query: "specificepithet:holbrookii genus:Scaphiopus hastissue:1" ; Times: 1
+	Query: "Plestiodon anthracinus mappable:1" ; Times: 1
+	Query: "Rhadinaea flavilata mappable:1" ; Times: 1
+	Query: "locality:Presque Isle county:&#34;Erie&#34; stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Florida&#34; Pituophis" ; Times: 9
+	Query: "specificepithet:Triangulum genus:Lampropeltis stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "catalognumber:1327" ; Times: 1
+	Query: "specificepithet:regilla genus:Pseudacris county:&#34;Humboldt&#34;" ; Times: 2
+	Query: "specificepithet:siculus genus:podarcis" ; Times: 2
+	Query: "Rena humilis mappable:1" ; Times: 1
+	Query: "specificepithet:neotesselatus genus:Aspidoscelis" ; Times: 1
+	Query: "order:Squamata class:Reptilia county:&#34;Jefferson&#34; stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "specificepithet:catesbeianus stateprovince:&#34;Texas&#34; hastissue:1" ; Times: 2
+	Query: "Tantilla coronata mappable:1" ; Times: 1
+	Query: "specificepithet:hypochondriaca" ; Times: 1
+	Query: "maculatum stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "Rhineura floridana mappable:1" ; Times: 1
+	Query: "Coleonyx variegatus stateprovince:&#34;California&#34; year &gt;= 1998" ; Times: 1
+	Query: "class:Reptilia county:&#34;Dundy&#34; stateprovince:&#34;Nebraska&#34;" ; Times: 2
+	Query: "genus:Ramphotyphlops stateprovince:&#34;hawaii&#34;" ; Times: 1
+	Query: "specificepithet:braminus stateprovince:&#34;hawaii&#34;" ; Times: 1
+	Query: "specificepithet:cristatellus genus:anolis stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Plestiodon laticeps mappable:1" ; Times: 1
+	Query: "catalognumber:14663" ; Times: 1
+	Query: "Phrynosoma solare mappable:1" ; Times: 1
+	Query: "order:Squamata class:Reptilia county:&#34;Barton&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "specificepithet:flagellicaudus genus:Aspidoscelis" ; Times: 1
+	Query: "class:Reptilia county:&#34;Cherokee&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "specificepithet:contortrix genus:agkistrodon hastissue:1" ; Times: 3
+	Query: "specificepithet:horridus genus:crotalus stateprovince:&#34;missouri&#34;" ; Times: 1
+	Query: "specificepithet:Triangulum stateprovince:&#34;Oklahoma&#34;" ; Times: 4
+	Query: "genus:Terrapene year &gt;= 2010 month &gt;= 4 month &lt;= 5" ; Times: 1
+	Query: "specificepithet:catesbeianus institutioncode:FHSM hastissue:1" ; Times: 2
+	Query: "class:Reptilia county:&#34;Thomas&#34; stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "class:reptilia locality:Presque Isle county:&#34;Erie&#34; stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "lampropeltis gentilis" ; Times: 2
+	Query: "catalognumber:9594 institutioncode:FHSM" ; Times: 1
+	Query: "specificepithet:neomexicanus genus:Aspidoscelis" ; Times: 1
+	Query: "genus:podarcis siculus" ; Times: 1
+	Query: "Crotalus adamanteus mappable:1" ; Times: 1
+	Query: "family:Viperidae class:Reptilia county:&#34;Barton&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "Sceloporus teapensis mappable:1" ; Times: 1
+	Query: "genus:podarcis siculus stateprovince:&#34;kansas&#34;" ; Times: 2
+	Query: "contortrix kansas" ; Times: 11
+	Query: "genus:Sistrurus county:&#34;Montgomery&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:uta county:&#34;Riverside&#34; year &gt;= 1977" ; Times: 1
+	Query: "genus:Salvadora county:&#34;Inyo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:agkistrodon hastissue:1" ; Times: 2
+	Query: "10313" ; Times: 1
+	Query: "genus:Ambystoma county:&#34;Bernalillo&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "genus:siren hastissue:1" ; Times: 1
+	Query: "specificepithet:helleri genus:Crotalus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 46 (out of 1263 download events in this period)
+Total number of records downloaded: 990
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 38
+	Country: Canada ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-18 ; Times: 5
+	Date: 2019-04-02 ; Times: 1
+	Date: 2019-04-10 ; Times: 2
+	Date: 2019-04-16 ; Times: 6
+	Date: 2019-04-15 ; Times: 1
+	Date: 2019-04-14 ; Times: 3
+	Date: 2019-04-04 ; Times: 1
+	Date: 2019-04-23 ; Times: 4
+	Date: 2019-04-20 ; Times: 5
+	Date: 2019-04-24 ; Times: 4
+	Date: 2019-04-25 ; Times: 2
+	Date: 2019-04-29 ; Times: 1
+	Date: 2019-04-08 ; Times: 3
+	Date: 2019-04-09 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:sagrei genus:anolis stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Xantusia henshawi" ; Times: 1
+	Query: "specificepithet:burti genus:Aspidoscelis" ; Times: 1
+	Query: "spea hammondii" ; Times: 2
+	Query: "Chilomeniscus cinctus" ; Times: 1
+	Query: "order:Squamata class:Reptilia county:&#34;Thomas&#34; stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Crotalus horridus" ; Times: 2
+	Query: "specificepithet:auriculatus genus:Desmognathus" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:annulatum" ; Times: 1
+	Query: "specificepithet:uniparens genus:Aspidoscelis" ; Times: 1
+	Query: "specificepithet:inornatus genus:Aspidoscelis" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus" ; Times: 1
+	Query: "specificepithet:guttatus genus:Aspidoscelis" ; Times: 1
+	Query: "Coleonyx variegatus stateprovince:&#34;California&#34; year &gt;= 1998" ; Times: 1
+	Query: "locality:Presque Isle county:&#34;Erie&#34; stateprovince:&#34;Pennsylvania&#34;" ; Times: 2
+	Query: "specificepithet:siculus genus:podarcis" ; Times: 1
+	Query: "Ambystoma mavortium" ; Times: 1
+	Query: "desmognathus auriculatus" ; Times: 1
+	Query: "specificepithet:maculatum genus:ambystoma" ; Times: 1
+	Query: "specificepithet:catesbeianus institutioncode:FHSM hastissue:1" ; Times: 1
+	Query: "specificepithet:neotesselatus genus:Aspidoscelis" ; Times: 1
+	Query: "specificepithet:atrox genus:crotalus" ; Times: 1
+	Query: "maculatum stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "specificepithet:regilla genus:Pseudacris county:&#34;Humboldt&#34;" ; Times: 1
+	Query: "genus:Ramphotyphlops stateprovince:&#34;hawaii&#34;" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus" ; Times: 1
+	Query: "specificepithet:velox genus:Aspidoscelis" ; Times: 1
+	Query: "specificepithet:flagellicaudus genus:Aspidoscelis" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:opacum" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:texanum" ; Times: 1
+	Query: "Crotalus adamanteus" ; Times: 1
+	Query: "specificepithet:neomexicanus genus:Aspidoscelis" ; Times: 1
+	Query: "specificepithet:braminus stateprovince:&#34;hawaii&#34;" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Sceloporus year&gt;1990" ; Times: 1
+	Query: "class:Reptilia county:&#34;Jeff Davis&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Desmognathus auriculatus" ; Times: 1
+	Query: "specificepithet:sexlineatus genus:Aspidoscelis" ; Times: 1
+	Query: "desmognathus conanti" ; Times: 1
+	Query: "specificepithet:costatus genus:Aspidoscelis" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "Ambystoma talpoideum" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:jeffersonianum" ; Times: 1
+	Query: "Ambystoma gracile" ; Times: 1
+
+
+End of report.
