@@ -1,0 +1,200 @@
+Report for Institution Code FHSM, Resource fhsm_herps
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 224
+Number of records retrieved in searches: 3051
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 212
+	Country: Colombia ; Times: 2
+	Country: Argentina ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-20 ; Times: 4
+	Date: 2019-06-21 ; Times: 4
+	Date: 2019-06-24 ; Times: 3
+	Date: 2019-06-25 ; Times: 4
+	Date: 2019-06-26 ; Times: 3
+	Date: 2019-06-27 ; Times: 1
+	Date: 2019-06-06 ; Times: 8
+	Date: 2019-06-29 ; Times: 1
+	Date: 2019-06-04 ; Times: 1
+	Date: 2019-06-05 ; Times: 1
+	Date: 2019-06-02 ; Times: 3
+	Date: 2019-06-03 ; Times: 2
+	Date: 2019-06-01 ; Times: 2
+	Date: 2019-06-28 ; Times: 10
+	Date: 2019-06-19 ; Times: 16
+	Date: 2019-06-18 ; Times: 4
+	Date: 2019-06-30 ; Times: 2
+	Date: 2019-06-15 ; Times: 4
+	Date: 2019-06-14 ; Times: 11
+	Date: 2019-06-17 ; Times: 3
+	Date: 2019-06-11 ; Times: 76
+	Date: 2019-06-10 ; Times: 15
+	Date: 2019-06-13 ; Times: 46
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Sistrurus specificepithet:miliarius" ; Times: 1
+	Query: "genus:Siren specificepithet:intermedia" ; Times: 1
+	Query: "genus:Clemmys specificepithet:guttata" ; Times: 1
+	Query: "Lithobates heckscheri" ; Times: 4
+	Query: "lampropeltis travis county" ; Times: 2
+	Query: "genus:Opheodrys specificepithet:vernalis" ; Times: 1
+	Query: "genus:Rhadinaea specificepithet:flavilata" ; Times: 1
+	Query: "plethodon neomexicanus" ; Times: 3
+	Query: "genus:Lithobates specificepithet:palustris" ; Times: 1
+	Query: "genus:Salvadora specificepithet:hexalepis" ; Times: 1
+	Query: "genus:Farancia specificepithet:erytrogramma" ; Times: 1
+	Query: "Lithobates chiricahuensis" ; Times: 1
+	Query: "genus:Lithobates specificepithet:grylio" ; Times: 1
+	Query: "genus:Incilius specificepithet:mazatlanensis" ; Times: 1
+	Query: "sternotherus odoratus year &gt;= 2000 year &lt;= 2019" ; Times: 1
+	Query: "Micrurus tener" ; Times: 1
+	Query: "genus:Ambystoma stateprovince:&#34;Oklahoma&#34; institutioncode:FHSM" ; Times: 1
+	Query: "vntype:specimen locality:Black Hills county:&#34;Crook&#34; stateprovince:&#34;Wyoming&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Plestiodon specificepithet:septentrionalis" ; Times: 1
+	Query: "genus:Macrochelys specificepithet:temminckii" ; Times: 2
+	Query: "genus:Hyla specificepithet:arenicolor" ; Times: 1
+	Query: "genus:Tantilla specificepithet:coronata" ; Times: 1
+	Query: "genus:Micruroides specificepithet:euryxanthus" ; Times: 1
+	Query: "genus:Tantilla specificepithet:hobartsmithi" ; Times: 1
+	Query: "Necturus maculosus Kansas" ; Times: 1
+	Query: "genus:Pseudobranchus specificepithet:axanthus" ; Times: 1
+	Query: "genus:Ophisaurus specificepithet:mimicus" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:jeffersonianum" ; Times: 1
+	Query: "sternotherus odoratus year &gt;= 1990 year &lt;= 2019" ; Times: 3
+	Query: "genus:Apalone specificepithet:spinifera" ; Times: 1
+	Query: "genus:Uma county:&#34;San Diego&#34;" ; Times: 1
+	Query: "genus:Ficimia specificepithet:streckeri" ; Times: 1
+	Query: "genus:macrochelys hastissue:1" ; Times: 1
+	Query: "genus:Crotalus specificepithet:molossus" ; Times: 1
+	Query: "specificepithet:Horridus genus:Crotalus stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "genus:Plethodon specificepithet:grobmani" ; Times: 1
+	Query: "genus:Sceloporus stateprovince:&#34;Georgia&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:pseudogeographica genus:graptemys stateprovince:&#34;kentucky&#34;" ; Times: 1
+	Query: "specificepithet:molossus genus:Crotalus locality:Hopkins" ; Times: 1
+	Query: "genus:Amphiuma specificepithet:pholeter" ; Times: 2
+	Query: "sternotherus odoratus hastissue:1" ; Times: 1
+	Query: "Lithobates chiricahuensis mappable:1" ; Times: 61
+	Query: "specificepithet:Piscivorus genus:Agkistrodon stateprovince:&#34;Kentucky&#34;" ; Times: 3
+	Query: "genus:Lithobates specificepithet:virgatipes" ; Times: 1
+	Query: "genus:Heloderma specificepithet:suspectum" ; Times: 3
+	Query: "catalognumber:2342" ; Times: 1
+	Query: "Eleutherodactylus cystignathoides}" ; Times: 1
+	Query: "genus:Hypsiglena specificepithet:jani" ; Times: 1
+	Query: "genus:Regina specificepithet:septemvittata" ; Times: 1
+	Query: "genus:Charina specificepithet:bottae" ; Times: 1
+	Query: "genus:Eurycea specificepithet:lucifuga" ; Times: 1
+	Query: "sphaerodactylus hastissue:1" ; Times: 1
+	Query: "genus:Coniophanes specificepithet:imperialis" ; Times: 1
+	Query: "specificepithet:piscivorus genus:agkistrodon stateprovince:&#34;kentucky&#34;" ; Times: 1
+	Query: "genus:Plestiodon specificepithet:anthracinus" ; Times: 1
+	Query: "genus:Lithobates specificepithet:heckscheri" ; Times: 1
+	Query: "genus:Necturus specificepithet:maculosus" ; Times: 1
+	Query: "genus:Hemidactylium specificepithet:scutatum" ; Times: 1
+	Query: "genus:Heterodon specificepithet:nasicus" ; Times: 2
+	Query: "genus:Phrynosoma specificepithet:solare" ; Times: 1
+	Query: "specificepithet:palmipes genus:Lithobates mappable:1" ; Times: 2
+	Query: "genus:Rena specificepithet:humilis" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Deirochelys specificepithet:reticularia" ; Times: 1
+	Query: "genus:Sceloporus specificepithet:consobrinus" ; Times: 1
+	Query: "genus:Charina year &gt;= 1990 hastissue:1" ; Times: 1
+	Query: "catalognumber:8961" ; Times: 3
+	Query: "order:Squamata class:Reptilia stateprovince:&#34;kentucky&#34;" ; Times: 1
+	Query: "genus:Hyla specificepithet:avivoca" ; Times: 2
+	Query: "genus:Ambystoma specificepithet:mavortium" ; Times: 1
+	Query: "Crotalus molossus Texas" ; Times: 1
+	Query: "genus:Thamnophis specificepithet:rufipunctatus" ; Times: 2
+	Query: "sternotherus odoratus year &gt;= 2000 year &lt;= 2019 hastissue:1" ; Times: 1
+	Query: "genus:Graptemys specificepithet:geographica" ; Times: 1
+	Query: "genus:Regina specificepithet:alleni" ; Times: 1
+	Query: "colorado bent reptilia" ; Times: 1
+	Query: "lampropeltis gentilis" ; Times: 3
+	Query: "genus:ambystoma county:&#34;bernalillo&#34; stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "genus:Ramphotyphlops specificepithet:braminus" ; Times: 1
+	Query: "genus:Pseudobranchus specificepithet:striatus" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus stateprovince:&#34;Texas&#34; year &gt;= 1980 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:zonata genus:lampropeltis" ; Times: 2
+	Query: "genus:Farancia specificepithet:abacura" ; Times: 1
+	Query: "genus:Rhyacotriton specificepithet:olympicus" ; Times: 1
+	Query: "heloderma hastissue:1" ; Times: 1
+	Query: "specificepithet:chiricahuensis genus:Lithobates mappable:1" ; Times: 16
+	Query: "genus:Virginia specificepithet:valeriae" ; Times: 1
+	Query: "genus:Necturus specificepithet:beyeri" ; Times: 1
+	Query: "Eleutherodactylus cystignathoides" ; Times: 1
+	Query: "genus:Nerodia specificepithet:cyclopion" ; Times: 2
+	Query: "genus:Plethodon stateprovince:&#34;Oklahoma&#34; institutioncode:FHSM" ; Times: 1
+	Query: "genus:Tantilla specificepithet:nigriceps" ; Times: 1
+	Query: "genus:Lampropeltis specificepithet:californiae" ; Times: 1
+	Query: "gbifdatasetid:84e823d2-f762-11e1-a439-00145eb45e9a" ; Times: 5
+	Query: "genus:Pseudacris specificepithet:ornata" ; Times: 2
+	Query: "genus:Bothriechis specificepithet:nigroviridis" ; Times: 1
+	Query: "genus:Kinosternon specificepithet:baurii" ; Times: 1
+	Query: "genus:Cemophora specificepithet:coccinea" ; Times: 1
+	Query: "genus:Rhineura specificepithet:floridana" ; Times: 2
+	Query: "genus:Micrurus specificepithet:tener" ; Times: 2
+	Query: "genus:Ophisaurus specificepithet:compressus" ; Times: 1
+	Query: "micruroides" ; Times: 1
+	Query: "genus:Plestiodon specificepithet:laticeps" ; Times: 1
+	Query: "genus:Clonophis specificepithet:kirtlandii" ; Times: 1
+	Query: "genus:Pseudacris specificepithet:streckeri" ; Times: 1
+	Query: "genus:Bogertophis specificepithet:subocularis" ; Times: 1
+	Query: "genus:crotalus county:&#34;moffat&#34;" ; Times: 1
+	Query: "genus:Plestiodon specificepithet:obsoletus" ; Times: 1
+	Query: "genus:Crotalus specificepithet:horridus" ; Times: 1
+	Query: "genus:Gerrhonotus specificepithet:infernalis" ; Times: 1
+	Query: "genus:Trachemys stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "county:&#34;Furnas&#34; stateprovince:&#34;Nebraska&#34; institutioncode:FHSM" ; Times: 1
+	Query: "genus:Amphiuma specificepithet:means" ; Times: 2
+	Query: "genus:Crotalus specificepithet:ruber" ; Times: 1
+	Query: "genus:Anaxyrus specificepithet:quercicus" ; Times: 2
+	Query: "genus:Sceloporus specificepithet:teapensis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 1182 download events in this period)
+Total number of records downloaded: 460
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-21 ; Times: 1
+	Date: 2019-06-26 ; Times: 1
+	Date: 2019-06-08 ; Times: 1
+	Date: 2019-06-06 ; Times: 2
+	Date: 2019-06-07 ; Times: 1
+	Date: 2019-06-05 ; Times: 2
+	Date: 2019-06-03 ; Times: 3
+	Date: 2019-06-10 ; Times: 1
+	Date: 2019-06-28 ; Times: 1
+	Date: 2019-06-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "gray wolf" ; Times: 1
+	Query: "specificepithet:piscivorus genus:agkistrodon stateprovince:&#34;kentucky&#34;" ; Times: 1
+	Query: "Rana pretiosa" ; Times: 1
+	Query: "beavers" ; Times: 1
+	Query: "micrurus fulvius" ; Times: 1
+	Query: "specificepithet:sirtalis genus:thamnophis" ; Times: 1
+	Query: "Thamnophis sirtalis" ; Times: 1
+	Query: "vntype:specimen class:Reptilia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "bison" ; Times: 1
+	Query: "Beavers" ; Times: 1
+	Query: "aneides aeneus" ; Times: 1
+	Query: "tARICHA GRANULOSA" ; Times: 1
+	Query: "vntype:specimen class:Reptilia stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Farancia" ; Times: 1
+
+
+End of report.
