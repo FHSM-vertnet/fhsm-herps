@@ -1,0 +1,170 @@
+Report for Institution Code FHSM, Resource fhsm_herps
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 136
+Number of records retrieved in searches: 2477
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 8
+	Country: United States ; Times: 124
+	Country: Slovakia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-27 ; Times: 2
+	Date: 2019-08-08 ; Times: 2
+	Date: 2019-08-29 ; Times: 8
+	Date: 2019-08-01 ; Times: 1
+	Date: 2019-08-05 ; Times: 3
+	Date: 2019-08-06 ; Times: 8
+	Date: 2019-08-07 ; Times: 8
+	Date: 2019-08-26 ; Times: 26
+	Date: 2019-08-09 ; Times: 4
+	Date: 2019-08-24 ; Times: 4
+	Date: 2019-08-25 ; Times: 6
+	Date: 2019-08-22 ; Times: 3
+	Date: 2019-08-23 ; Times: 2
+	Date: 2019-08-20 ; Times: 6
+	Date: 2019-08-21 ; Times: 6
+	Date: 2019-08-16 ; Times: 1
+	Date: 2019-08-15 ; Times: 13
+	Date: 2019-08-13 ; Times: 12
+	Date: 2019-08-12 ; Times: 1
+	Date: 2019-08-11 ; Times: 1
+	Date: 2019-08-10 ; Times: 2
+	Date: 2019-08-31 ; Times: 1
+	Date: 2019-08-30 ; Times: 4
+	Date: 2019-08-19 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "institutioncode:fhsm 13596" ; Times: 4
+	Query: "coniophanes imperialis" ; Times: 1
+	Query: "specificepithet:biscutatus genus:Trimorphodon hastissue:1" ; Times: 1
+	Query: "specificepithet:texanum genus:Ambystoma stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "institutioncode:fhsm zoological" ; Times: 1
+	Query: "institutioncode:fhsm 4260" ; Times: 1
+	Query: "Moffat crotalus colorado" ; Times: 2
+	Query: "specificepithet:tergeminus genus:sistrurus" ; Times: 5
+	Query: "genus:carphophis year &gt;= 2000 year &lt;= 2019 hastissue:1" ; Times: 2
+	Query: "Hypsiglena jani" ; Times: 1
+	Query: "genus:Carphophis year &gt;= 1990 year &lt;= 2019 hastissue:1" ; Times: 1
+	Query: "anaxyrus woodhousii fort bend" ; Times: 1
+	Query: "institutioncode:fhsm bison bison" ; Times: 1
+	Query: "genus:Notophthalmus stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "inornatus Arizona" ; Times: 1
+	Query: "Aspidoscelis inornatus Arizona" ; Times: 3
+	Query: "Lacerta viridis" ; Times: 1
+	Query: "Anaxyrus retiformis mappable:1" ; Times: 1
+	Query: "year &gt;= 2003 year &lt;= 2003 institutioncode:FHSM" ; Times: 2
+	Query: "institutioncode:fhsm bison" ; Times: 7
+	Query: "genus:ficimia" ; Times: 1
+	Query: "institutioncode:fhsm 8913" ; Times: 2
+	Query: "genus:Carphophis hastissue:1" ; Times: 6
+	Query: "Micruroides euryxanthus" ; Times: 1
+	Query: "genus:Carphophis year &gt;= 2000 year &lt;= 2019 hastissue:1" ; Times: 1
+	Query: "specificepithet:elegans genus:Sphaerodactylus institutioncode:FHSM" ; Times: 6
+	Query: "vntype:specimen specificepithet:occipitomaculata genus:storeria hastissue:1" ; Times: 1
+	Query: "specificepithet:tigris genus:crotalus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Terrapene county:&#34;Jackson&#34; stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "order:Squamata county:&#34;Franklin&#34; stateprovince:&#34;Florida&#34; year &gt;= 2010 year &lt;= 2020" ; Times: 2
+	Query: "specificepithet:elapsoides genus:lampropeltis stateprovince:&#34;kentucky&#34;" ; Times: 1
+	Query: "Drymarchon corais" ; Times: 3
+	Query: "specificepithet:inornatus family:teiidae stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "institutioncode:fhsm bottoms" ; Times: 1
+	Query: "Terrapene ornata stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "Anaxyrus debilis mappable:1" ; Times: 5
+	Query: "woodhousii fort bend" ; Times: 1
+	Query: "genus:Plethodon stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "Rana aurora" ; Times: 6
+	Query: "caiman crocodilus hastissue:1" ; Times: 1
+	Query: "institutioncode:fhsm 11385" ; Times: 2
+	Query: "genus:gyrinophilus order:caudata stateprovince:&#34;kentucky&#34;" ; Times: 1
+	Query: "specificepithet:ordinoides genus:thamnophis hastissue:1" ; Times: 2
+	Query: "Gopherus agassizii" ; Times: 4
+	Query: "specificepithet:texanum genus:Ambystoma stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "genus:storeria occipitomaculata hastissue:1" ; Times: 2
+	Query: "order:caudata county:&#34;powell&#34; stateprovince:&#34;kentucky&#34;" ; Times: 1
+	Query: "specificepithet:squirella genus:Hyla hastissue:1" ; Times: 1
+	Query: "Thamnophis rufipunctatus" ; Times: 4
+	Query: "aneides hardii" ; Times: 2
+	Query: "Parris" ; Times: 1
+	Query: "institutioncode:fhsm topeka" ; Times: 1
+	Query: "catalognumber:6995" ; Times: 1
+	Query: "genus:aneides stateprovince:&#34;kentucky&#34;" ; Times: 3
+	Query: "Hyla wrightorum mappable:1" ; Times: 2
+	Query: "sistrurus tergeminus" ; Times: 4
+	Query: "crotalus tigris" ; Times: 5
+	Query: "specificepithet:chrysoscelis genus:Hyla hastissue:1" ; Times: 1
+	Query: "Lithobates chiricahuensis" ; Times: 13
+	Query: "institutioncode:fhsm 14690" ; Times: 3
+	Query: "vntype:specimen specificepithet:valeriae genus:Virginia hastissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 33 (out of 1034 download events in this period)
+Total number of records downloaded: 4638
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+	Country: Unknown ; Times: 2
+	Country: Mexico ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-09 ; Times: 2
+	Date: 2019-08-06 ; Times: 2
+	Date: 2019-08-01 ; Times: 2
+	Date: 2019-08-22 ; Times: 1
+	Date: 2019-08-02 ; Times: 5
+	Date: 2019-08-16 ; Times: 1
+	Date: 2019-08-15 ; Times: 2
+	Date: 2019-08-03 ; Times: 1
+	Date: 2019-08-13 ; Times: 2
+	Date: 2019-08-05 ; Times: 3
+	Date: 2019-08-28 ; Times: 2
+	Date: 2019-08-10 ; Times: 1
+	Date: 2019-08-26 ; Times: 1
+	Date: 2019-08-04 ; Times: 3
+	Date: 2019-08-31 ; Times: 3
+	Date: 2019-08-20 ; Times: 1
+	Date: 2019-08-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:inornatus family:Teiidae stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "crotalus molossus" ; Times: 1
+	Query: "specificepithet:tergeminus genus:sistrurus" ; Times: 2
+	Query: "Hemidactylus turcicus" ; Times: 1
+	Query: "genus:pituophis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Dipsadidae" ; Times: 1
+	Query: "Sceloporus poinsettii" ; Times: 1
+	Query: "genus:Carphophis hastissue:1" ; Times: 1
+	Query: "Micruroides euryxanthus" ; Times: 1
+	Query: "crotalus ruber" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "Aspidoscelis inornatus Arizona" ; Times: 2
+	Query: "order:Squamata county:&#34;Franklin&#34; stateprovince:&#34;Florida&#34; year &gt;= 2010 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:inornatus family:teiidae stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "specificepithet:sagrei genus:anolis hastissue:1" ; Times: 1
+	Query: "Salvadora grahamiae" ; Times: 1
+	Query: "specificepithet:cinerea genus:Hyla" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "Crotalus atrox" ; Times: 2
+	Query: "genus:Pituophis stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "Rena humilis" ; Times: 1
+	Query: "genus:Diadophis hastissue:1" ; Times: 1
+	Query: "Sceloporus clarkii" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "natricidae" ; Times: 1
+	Query: "specificepithet:multicarinata genus:elgaria" ; Times: 1
+	Query: "Senticolis triaspis" ; Times: 1
+	Query: "genus:Ambystoma hastissue:1" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Rhinocheilus lecontei" ; Times: 1
+
+
+End of report.
