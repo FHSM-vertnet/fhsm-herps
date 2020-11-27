@@ -1,0 +1,220 @@
+Report for Institution Code FHSM, Resource fhsm_herps
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 155
+Number of records retrieved in searches: 1486
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Italy ; Times: 1
+	Country: Unknown ; Times: 6
+	Country: United States ; Times: 124
+	Country: Sweden ; Times: 18
+	Country: Argentina ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 8
+	Date: 2019-10-08 ; Times: 11
+	Date: 2019-10-21 ; Times: 3
+	Date: 2019-10-20 ; Times: 2
+	Date: 2019-10-26 ; Times: 1
+	Date: 2019-10-25 ; Times: 1
+	Date: 2019-10-24 ; Times: 12
+	Date: 2019-10-01 ; Times: 4
+	Date: 2019-10-03 ; Times: 1
+	Date: 2019-10-02 ; Times: 1
+	Date: 2019-10-04 ; Times: 1
+	Date: 2019-10-07 ; Times: 6
+	Date: 2019-10-06 ; Times: 1
+	Date: 2019-10-23 ; Times: 7
+	Date: 2019-10-22 ; Times: 13
+	Date: 2019-10-29 ; Times: 1
+	Date: 2019-10-18 ; Times: 3
+	Date: 2019-10-28 ; Times: 15
+	Date: 2019-10-13 ; Times: 4
+	Date: 2019-10-10 ; Times: 6
+	Date: 2019-10-11 ; Times: 8
+	Date: 2019-10-16 ; Times: 7
+	Date: 2019-10-31 ; Times: 8
+	Date: 2019-10-14 ; Times: 1
+	Date: 2019-10-17 ; Times: 4
+	Date: 2019-10-15 ; Times: 1
+	Date: 2019-10-30 ; Times: 25
+
+List of queries that retrieved data from the resource: 
+	Query: "Thamnophis rufipunctatus 2015" ; Times: 1
+	Query: "Thamnophis rufipunctatus 2016" ; Times: 1
+	Query: "Phrynosoma blainvilli" ; Times: 1
+	Query: "catalognumber:12077" ; Times: 1
+	Query: "specificepithet:vermis genus:carphophis catalognumber:10495" ; Times: 1
+	Query: "10109" ; Times: 1
+	Query: "Storeria dekayi Missouri year &gt;= 2000" ; Times: 1
+	Query: "catalognumber:13183 institutioncode:FHSM" ; Times: 1
+	Query: "specificepithet:vermis genus:carphophis catalognumber:10506" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Kiowa&#34; stateprovince:&#34;Kansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Ohio&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:platyrhinos genus:heterodon institutioncode:FHSM" ; Times: 3
+	Query: "Lithobates chiricahuensis" ; Times: 1
+	Query: "Anaxyrus quercicus" ; Times: 1
+	Query: "Regina grahamii mappable:1" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus institutioncode:FHSM" ; Times: 4
+	Query: "specificepithet:horridus genus:Crotalus stateprovince:&#34;Alabama&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Johnson&#34; stateprovince:&#34;Kansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:2482" ; Times: 2
+	Query: "specificepithet:consobrinus genus:Sceloporus hastissue:1" ; Times: 1
+	Query: "genus:necturus stateprovince:&#34;Florida&#34; year &gt;= 1990" ; Times: 1
+	Query: "specificepithet:vermis genus:carphophis catalognumber:11133" ; Times: 1
+	Query: "streckeri Pseudacris" ; Times: 1
+	Query: "genus:Graptemys family:Emydidae stateprovince:&#34;Kansas&#34;" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Franklin&#34; stateprovince:&#34;Kansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Douglas&#34; stateprovince:&#34;Kansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Gopherus agassizii 2015" ; Times: 1
+	Query: "specificepithet:vermis genus:carphophis catalognumber:12491" ; Times: 1
+	Query: "crotalus lepidus new mexico" ; Times: 1
+	Query: "Ficimia streckeri" ; Times: 2
+	Query: "neotenic genus:Ambystoma" ; Times: 4
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;LOgan&#34; stateprovince:&#34;Kansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Storeria Missouri" ; Times: 1
+	Query: "genus:podarcis stateprovince:&#34;kansas&#34; country:&#34;]&#34;" ; Times: 1
+	Query: "Lithobates chiricahuensis 2016" ; Times: 1
+	Query: "Lithobates chiricahuensis 2015" ; Times: 1
+	Query: "specificepithet:lepidus genus:Crotalus stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus stateprovince:&#34;North Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:siculus genus:podarcis stateprovince:&#34;kansas&#34;" ; Times: 1
+	Query: "Plethodon electromorphus" ; Times: 1
+	Query: "specificepithet:hernandesi genus:phrynosoma hastissue:1" ; Times: 1
+	Query: "Plestiodon laticeps mappable:1" ; Times: 1
+	Query: "specificepithet:vermis genus:carphophis catalognumber:13267" ; Times: 1
+	Query: "Agkistrodon piscivorus tennessee" ; Times: 3
+	Query: "specificepithet:bombifrons stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "specificepithet:vermis genus:carphophis catalognumber:7661" ; Times: 1
+	Query: "vntype:specimen specificepithet:consobrinus genus:Sceloporus hastissue:1" ; Times: 1
+	Query: "eleutherodactylus cystignathoides texas" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Miami&#34; stateprovince:&#34;Kansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:siculus genus:podarcis county:&#34;douglas&#34; stateprovince:&#34;kansas&#34;" ; Times: 1
+	Query: "gbifdatasetid:84e823d2-f762-11e1-a439-00145eb45e9a" ; Times: 2
+	Query: "catalognumber:1459" ; Times: 1
+	Query: "Storeria dekayi year &gt;= 2000 year &lt;= 2019 hastissue:1" ; Times: 1
+	Query: "Storeria dekayi hastissue:1" ; Times: 1
+	Query: "stateprovince:&#34;Massachusets&#34;" ; Times: 1
+	Query: "specificepithet:vermis genus:carphophis catalognumber:13528" ; Times: 1
+	Query: "specificepithet:striatula order:squamata stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "genus:Carphophis stateprovince:&#34;Oklahoma&#34; year &gt;= 1990 year &lt;= 2019 hastissue:1" ; Times: 2
+	Query: "specificepithet:nasicus genus:heterodon institutioncode:FHSM" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Anderson&#34; stateprovince:&#34;Kansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:podarcis county:&#34;douglas&#34; stateprovince:&#34;kansas&#34;" ; Times: 1
+	Query: "specificepithet:horridus genus:crotalus stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "specificepithet:vermis genus:carphophis catalognumber:10786" ; Times: 1
+	Query: "genus:podarcis stateprovince:&#34;kansas&#34;" ; Times: 2
+	Query: "Gopherus agassizii 2016" ; Times: 1
+	Query: "specificepithet:vermis genus:carphophis catalognumber:8299" ; Times: 1
+	Query: "eleutherodactylus cystignathoides" ; Times: 4
+	Query: "specificepithet:horridus genus:Crotalus county:&#34;Carteret&#34; stateprovince:&#34;North Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Storeria arkansas year &gt;= 2000 year" ; Times: 1
+	Query: "specificepithet:aestivus genus:Opheodrys institutioncode:FHSM" ; Times: 1
+	Query: "Desmognathus folkertsi" ; Times: 2
+	Query: "specificepithet:horridus genus:Crotalus stateprovince:&#34;Alabama&#34; institutioncode:FHSM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "11817" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus county:&#34;Barbour&#34; stateprovince:&#34;Alabama&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:blainvilli genus:Phrynosoma" ; Times: 1
+	Query: "11893" ; Times: 3
+	Query: "genus:Crotalus county:&#34;Kiowa&#34; stateprovince:&#34;Kansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:vermis genus:carphophis catalognumber:12628" ; Times: 1
+	Query: "aspidoscelis burti burti" ; Times: 1
+	Query: "Storeria dekayi Missouri" ; Times: 2
+	Query: "specificepithet:vermis genus:carphophis catalognumber:12509" ; Times: 1
+	Query: "specificepithet:vermis genus:carphophis catalognumber:12508" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Jefferson&#34; stateprovince:&#34;Kansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:sylvaticus genus:Lithobates hastissue:1" ; Times: 1
+	Query: "specificepithet:vermis genus:carphophis catalognumber:10492" ; Times: 1
+	Query: "Storeria Missouri year &gt;= 2000 year" ; Times: 1
+	Query: "sylvaticus Lithobates" ; Times: 4
+	Query: "vntype:specimen genus:Graptemys family:Emydidae stateprovince:&#34;Kansas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:Aneides stateprovince:&#34;Kentucky&#34;" ; Times: 3
+	Query: "specificepithet:vermis genus:carphophis catalognumber:12757" ; Times: 1
+	Query: "specificepithet:regilla genus:pseudacris hastissue:1" ; Times: 1
+	Query: "genus:malaclemys stateprovince:&#34;florida&#34; year &gt;= 1970" ; Times: 1
+	Query: "genus:Crotalus stateprovince:&#34;Arkansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "12619" ; Times: 2
+	Query: "FHSM 9104" ; Times: 1
+	Query: "genus:Diadophis county:&#34;harlan&#34; stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "13267" ; Times: 3
+	Query: "specificepithet:nelsoni genus:pseudemys stateprovince:&#34;florida&#34; year &gt;= 1970" ; Times: 2
+	Query: "genus:Sphaerodactylus hastissue:1" ; Times: 1
+	Query: "specificepithet:consobrinus genus:sceloporus hastissue:1" ; Times: 1
+	Query: "county:&#34;Middlesex&#34; stateprovince:&#34;New Jersey&#34;" ; Times: 5
+	Query: "catalognumber:16172" ; Times: 1
+	Query: "Storeria Missouri year &gt;= 2000 year &lt;= 2019" ; Times: 1
+	Query: "vntype:specimen genus:Graptemys family:Emydidae stateprovince:&#34;Kansas&#34;" ; Times: 2
+	Query: "genus:pituophis stateprovince:&#34;Florida&#34; year &gt;= 1995 year &lt;= 2019" ; Times: 1
+	Query: "Storeria dekayi Arkansas year &gt;= 2000" ; Times: 1
+	Query: "specificepithet:texanum genus:Ambystoma hastissue:1" ; Times: 1
+	Query: "Nerodia erythrogaster Tennessee" ; Times: 6
+	Query: "&#34;farancia erytrogramma&#34; &#34;north carolina&#34;" ; Times: 2
+	Query: "specificepithet:carinatus genus:leiocephalus year &gt;= 2000 year &lt;= 2019" ; Times: 1
+	Query: "Lacerta bilineata" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 45 (out of 1308 download events in this period)
+Total number of records downloaded: 4472
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 19
+	Country: Brazil ; Times: 3
+	Country: Mexico ; Times: 13
+	Country: Unknown ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 3
+	Date: 2019-10-23 ; Times: 14
+	Date: 2019-10-21 ; Times: 2
+	Date: 2019-10-27 ; Times: 2
+	Date: 2019-10-26 ; Times: 2
+	Date: 2019-10-25 ; Times: 1
+	Date: 2019-10-01 ; Times: 1
+	Date: 2019-10-16 ; Times: 1
+	Date: 2019-10-10 ; Times: 1
+	Date: 2019-10-28 ; Times: 1
+	Date: 2019-10-30 ; Times: 10
+	Date: 2019-10-17 ; Times: 2
+	Date: 2019-10-04 ; Times: 1
+	Date: 2019-10-06 ; Times: 2
+	Date: 2019-10-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "ophisaurus attenuatus" ; Times: 1
+	Query: "Bufonidae vntype:specimen hastissue:1" ; Times: 1
+	Query: "sceloporus clarkii" ; Times: 4
+	Query: "specificepithet:guttata family:emydidae" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 9
+	Query: "Hemidactylus mabouia" ; Times: 1
+	Query: "genus:podarcis county:&#34;douglas&#34; stateprovince:&#34;kansas&#34;" ; Times: 1
+	Query: "Ficimia streckeri" ; Times: 1
+	Query: "specificepithet:horridus genus:crotalus stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "reptilia stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Sceloporus stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "sceloporus Clarkii" ; Times: 1
+	Query: "genus:caiman hastissue:1" ; Times: 1
+	Query: "reptilia stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 4
+	Query: "Trimorphodon biscutatus" ; Times: 1
+	Query: "Anaxyrus fowleri" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:undulatus genus:Sceloporus hastissue:1" ; Times: 1
+	Query: "genus:Anolis hastissue:1" ; Times: 1
+	Query: "specificepithet:contortrix genus:agkistrodon stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "SCELOPORUS CLARKII" ; Times: 3
+	Query: "vntype:specimen specificepithet:consobrinus genus:Sceloporus hastissue:1" ; Times: 1
+	Query: "specificepithet:sylvaticus genus:Lithobates hastissue:1" ; Times: 1
+	Query: "Sceloporus clarkii" ; Times: 2
+	Query: "specificepithet:siculus genus:podarcis county:&#34;douglas&#34; stateprovince:&#34;kansas&#34;" ; Times: 1
+	Query: "Lithobates Catesbeianus" ; Times: 1
+	Query: "sphaerodactylus elegans" ; Times: 1
+
+
+End of report.
