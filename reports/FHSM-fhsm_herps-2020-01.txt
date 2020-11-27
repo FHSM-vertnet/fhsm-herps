@@ -1,0 +1,191 @@
+Report for Institution Code FHSM, Resource fhsm_herps
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 101
+Number of records retrieved in searches: 1434
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 79
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 8
+	Country: United Kingdom ; Times: 5
+	Country: Denmark ; Times: 3
+	Country: Dominica ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-08 ; Times: 8
+	Date: 2020-01-17 ; Times: 1
+	Date: 2020-01-03 ; Times: 2
+	Date: 2020-01-28 ; Times: 4
+	Date: 2020-01-07 ; Times: 4
+	Date: 2020-01-04 ; Times: 1
+	Date: 2020-01-21 ; Times: 4
+	Date: 2020-01-20 ; Times: 2
+	Date: 2020-01-09 ; Times: 4
+	Date: 2020-01-22 ; Times: 6
+	Date: 2020-01-25 ; Times: 3
+	Date: 2020-01-24 ; Times: 3
+	Date: 2020-01-27 ; Times: 7
+	Date: 2020-01-26 ; Times: 1
+	Date: 2020-01-29 ; Times: 6
+	Date: 2020-01-18 ; Times: 1
+	Date: 2020-01-19 ; Times: 6
+	Date: 2020-01-14 ; Times: 2
+	Date: 2020-01-15 ; Times: 3
+	Date: 2020-01-30 ; Times: 3
+	Date: 2020-01-31 ; Times: 1
+	Date: 2020-01-11 ; Times: 5
+	Date: 2020-01-13 ; Times: 1
+	Date: 2020-01-23 ; Times: 23
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:hurterii genus:Scaphiopus" ; Times: 1
+	Query: "pretiosa Rana" ; Times: 2
+	Query: "Podarcis siculus" ; Times: 5
+	Query: "ficimia texas" ; Times: 2
+	Query: "&#34;senticolis triaspis&#34; arizona" ; Times: 1
+	Query: "county:&#34;wayne&#34; stateprovince:&#34;west virginia&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:sistrurus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "folkertsi Georgia union" ; Times: 1
+	Query: "Ophisaurus mimicus" ; Times: 1
+	Query: "specificepithet:wrightorum genus:Hyla" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "h. nichols" ; Times: 5
+	Query: "picta Chrysemys" ; Times: 3
+	Query: "specificepithet:elegans genus:Sphaerodactylus institutioncode:FHSM" ; Times: 4
+	Query: "specificepithet:fouquettei genus:Pseudacris" ; Times: 1
+	Query: "specificepithet:multiplicata genus:Spea" ; Times: 1
+	Query: "Eleutherodactylus cameron county texas" ; Times: 1
+	Query: "specificepithet:arenicolor genus:Hyla" ; Times: 1
+	Query: "Georgia folkertsi" ; Times: 1
+	Query: "Aspidoscelis neotesselatus" ; Times: 1
+	Query: "county:&#34;Newton&#34; stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "institutioncode:fhsm bison" ; Times: 3
+	Query: "catalognumber:8801 institutioncode:FHSM" ; Times: 1
+	Query: "specificepithet:Axanthus genus:Pseudobranchus year &gt;= 1985" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Rhadinaea hastissue:1" ; Times: 2
+	Query: "institutioncode:fhsm caretta" ; Times: 4
+	Query: "institutioncode:fhsm Testudines" ; Times: 3
+	Query: "catalognumber:10379 institutioncode:FHSM" ; Times: 1
+	Query: "catalognumber:11263" ; Times: 1
+	Query: "specificepithet:ocularis genus:Pseudacris" ; Times: 1
+	Query: "Chionactis occipitalis county:&#34;Clark&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:elapsoides stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "specificepithet:streckeri genus:Pseudacris" ; Times: 1
+	Query: "12353" ; Times: 1
+	Query: "&#34;senticolis triaspis&#34; country:united states" ; Times: 1
+	Query: "catalognumber:12453" ; Times: 1
+	Query: "specificepithet:mabouia genus:hemidactylus hastissue:1" ; Times: 2
+	Query: "specificepithet:fodiens genus:Smilisca" ; Times: 1
+	Query: "specificepithet:avivoca genus:Hyla" ; Times: 1
+	Query: "h nichols" ; Times: 3
+	Query: "&#34;senticolis triaspis&#34; arizona country:united states" ; Times: 1
+	Query: "arizona &#34;senticolis triaspis&#34; country:united states" ; Times: 1
+	Query: "amphibia Georgia union" ; Times: 1
+	Query: "specificepithet:vermis genus:carphophis hastissue:1" ; Times: 2
+	Query: "specificepithet:olivacea genus:Gastrophryne" ; Times: 1
+	Query: "Terrapene ornata mexico" ; Times: 1
+	Query: "13990" ; Times: 1
+	Query: "specificepithet:ornata genus:Pseudacris" ; Times: 1
+	Query: "Sistrurus tergeminus" ; Times: 2
+	Query: "Chionactis occipitalis stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "genus:Thamnophis stateprovince:&#34;Kentucky&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:cornutum genus:phrynosoma year &gt;= 2010 year &lt;= 2020" ; Times: 2
+	Query: "coniophanes imperialis texas" ; Times: 1
+	Query: "genus:heterodon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "12356" ; Times: 1
+	Query: "pantherophis nebraska" ; Times: 2
+	Query: "specificepithet:kalmi genus:Pseudacris" ; Times: 1
+	Query: "specificepithet:brachyphona genus:Pseudacris" ; Times: 1
+	Query: "gbifdatasetid:84e823d2-f762-11e1-a439-00145eb45e9a" ; Times: 2
+	Query: "specificepithet:clarkii genus:Pseudacris" ; Times: 1
+	Query: "catalognumber:12682" ; Times: 1
+	Query: "specificepithet:molossus genus:crotalus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "plethodon angusticlavius" ; Times: 2
+	Query: "county:&#34;lewis&#34; stateprovince:&#34;Kentucky&#34;" ; Times: 2
+	Query: "Lacerta bilineata" ; Times: 1
+	Query: "Clemmys guttata mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 48 (out of 1584 download events in this period)
+Total number of records downloaded: 1022
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 47
+	Country: China ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-28 ; Times: 7
+	Date: 2020-01-08 ; Times: 1
+	Date: 2020-01-07 ; Times: 1
+	Date: 2020-01-06 ; Times: 1
+	Date: 2020-01-04 ; Times: 1
+	Date: 2020-01-15 ; Times: 1
+	Date: 2020-01-09 ; Times: 1
+	Date: 2020-01-22 ; Times: 1
+	Date: 2020-01-25 ; Times: 12
+	Date: 2020-01-11 ; Times: 1
+	Date: 2020-01-27 ; Times: 2
+	Date: 2020-01-24 ; Times: 12
+	Date: 2020-01-31 ; Times: 4
+	Date: 2020-01-16 ; Times: 1
+	Date: 2020-01-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Leiocephalus carinatus" ; Times: 1
+	Query: "Podarcis siculus" ; Times: 1
+	Query: "ficimia texas" ; Times: 1
+	Query: "specificepithet:marcianus genus:Thamnophis" ; Times: 1
+	Query: "genus:Scaphiopus" ; Times: 1
+	Query: "Aspidoscelis burti" ; Times: 1
+	Query: "Ophisaurus mimicus" ; Times: 1
+	Query: "Hemidactylus mabouia" ; Times: 1
+	Query: "Plestiodon gilberti" ; Times: 1
+	Query: "deirochelys" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma" ; Times: 1
+	Query: "Aspidoscelis uniparens" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma year &gt;= 1960 year &lt;= 2020" ; Times: 1
+	Query: "Sphaerodactylus elegans" ; Times: 1
+	Query: "Uma notata" ; Times: 1
+	Query: "Plestiodon septentrionalis" ; Times: 2
+	Query: "county:&#34;Newton&#34; stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "Sceloporus tristichus" ; Times: 1
+	Query: "Hemidactylus frenatus" ; Times: 1
+	Query: "Aspidoscelis neomexicanus" ; Times: 1
+	Query: "Coleonyx variegatus" ; Times: 1
+	Query: "Aspidoscelis neotesselatus" ; Times: 1
+	Query: "specificepithet:streckeri genus:Pseudacris" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "Petrosaurus mearnsi" ; Times: 1
+	Query: "Ophisaurus ventralis" ; Times: 1
+	Query: "arizona &#34;senticolis triaspis&#34; country:united states" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "coniophanes imperialis texas" ; Times: 1
+	Query: "Aspidoscelis velox" ; Times: 1
+	Query: "Phrynosoma coronatum" ; Times: 1
+	Query: "Plestiodon anthracinus" ; Times: 1
+	Query: "specificepithet:cinereus genus:plethodon country:&#34;united states&#34;" ; Times: 1
+	Query: "Ophisaurus attenuatus" ; Times: 1
+	Query: "Ophisaurus compressus" ; Times: 1
+	Query: "specificepithet:sagrei genus:Anolis hastissue:1" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Anolis hastissue:1" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "specificepithet:areolatus family:ranidae" ; Times: 1
+	Query: "Aspidoscelis guttatus" ; Times: 1
+	Query: "Aspidoscelis costatus" ; Times: 1
+	Query: "specificepithet:Cornutum genus:Phrynosoma year &gt;= 1800 year &lt;= 1959" ; Times: 1
+	Query: "Sceloporus orcutti" ; Times: 1
+	Query: "Basiliscus basiliscus" ; Times: 1
+	Query: "xantusia henshawi" ; Times: 2
+	Query: "Lacerta bilineata" ; Times: 1
+
+
+End of report.
