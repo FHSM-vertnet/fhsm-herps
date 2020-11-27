@@ -1,0 +1,280 @@
+Report for Institution Code FHSM, Resource fhsm_herps
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 243
+Number of records retrieved in searches: 4949
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 1
+	Country: United States ; Times: 210
+	Country: Australia ; Times: 5
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 18
+	Country: Spain ; Times: 5
+	Country: Brazil ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-21 ; Times: 4
+	Date: 2020-04-04 ; Times: 21
+	Date: 2020-04-06 ; Times: 16
+	Date: 2020-04-22 ; Times: 4
+	Date: 2020-04-05 ; Times: 20
+	Date: 2020-04-20 ; Times: 1
+	Date: 2020-04-07 ; Times: 30
+	Date: 2020-04-01 ; Times: 8
+	Date: 2020-04-02 ; Times: 3
+	Date: 2020-04-25 ; Times: 1
+	Date: 2020-04-29 ; Times: 5
+	Date: 2020-04-08 ; Times: 5
+	Date: 2020-04-09 ; Times: 4
+	Date: 2020-04-27 ; Times: 4
+	Date: 2020-04-03 ; Times: 12
+	Date: 2020-04-19 ; Times: 4
+	Date: 2020-04-18 ; Times: 11
+	Date: 2020-04-13 ; Times: 25
+	Date: 2020-04-12 ; Times: 3
+	Date: 2020-04-10 ; Times: 36
+	Date: 2020-04-17 ; Times: 2
+	Date: 2020-04-16 ; Times: 9
+	Date: 2020-04-15 ; Times: 2
+	Date: 2020-04-14 ; Times: 3
+	Date: 2020-04-30 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Diadophis county:&#34;Ellis&#34; stateprovince:&#34;Kansas&#34; institutioncode:FHSM" ; Times: 1
+	Query: "genus:Pituophis class:Reptilia stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "genus:Pituophis county:&#34;Ellis&#34; stateprovince:&#34;Kansas&#34; institutioncode:FHSM" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Obion&#34; stateprovince:&#34;Tennessee&#34;" ; Times: 2
+	Query: "specificepithet:gentilis genus:Lampropeltis county:&#34;Ellis&#34; stateprovince:&#34;Kansas&#34; institutioncode:FHSM" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:glutinosus genus:plethodon stateprovince:&#34;ohio&#34;" ; Times: 2
+	Query: "genus:Sistrurus county:&#34;tulsa&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "genus:cemophora stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Rush&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Meade&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "specificepithet:tergeminus genus:Sistrurus county:&#34;Rush&#34; stateprovince:&#34;Kansas&#34;" ; Times: 3
+	Query: "genus:Salvadora county:&#34;Inyo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Ellis&#34; stateprovince:&#34;Kansas&#34; institutioncode:FHSM" ; Times: 1
+	Query: "specificepithet:fourchensis genus:Plethodon" ; Times: 1
+	Query: "specificepithet:tergeminus genus:Sistrurus county:&#34;Harper&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber class:Reptilia county:&#34;Ellis&#34; stateprovince:&#34;Kansas&#34; institutioncode:FHSM" ; Times: 1
+	Query: "specificepithet:clamitans genus:Lithobates stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "genus:Storeria county:&#34;Ellis&#34; stateprovince:&#34;Kansas&#34; institutioncode:FHSM" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 2
+	Query: "genus:Plethodon specificepithet:kiamichi" ; Times: 1
+	Query: "genus:Diadophis county:&#34;Monroe&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Incilius valliceps" ; Times: 10
+	Query: "specificepithet:tergeminus genus:Sistrurus county:&#34;Barber&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "lithobates sphenocephalus arkansas" ; Times: 1
+	Query: "genus:Pituophis class:Reptilia county:&#34;Rush&#34; stateprovince:&#34;Kansas&#34; institutioncode:FHSM" ; Times: 2
+	Query: "Sistrurus tergeminus" ; Times: 4
+	Query: "class:Reptilia county:&#34;Ellis&#34; stateprovince:&#34;Kansas&#34; institutioncode:FHSM" ; Times: 1
+	Query: "specificepithet:feriarum genus:Pseudacris stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:elegans genus:Arizona stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:decurtatus county:&#34;riverside&#34;" ; Times: 1
+	Query: "genus:Pituophis class:Reptilia stateprovince:&#34;South Dakota&#34;" ; Times: 1
+	Query: "(Dipsadidae) hastissue:1" ; Times: 23
+	Query: "county:&#34;lewis&#34; stateprovince:&#34;Kentucky&#34;" ; Times: 4
+	Query: "specificepithet:tergeminus genus:Sistrurus county:&#34;Barton&#34; stateprovince:&#34;Kansas&#34;" ; Times: 4
+	Query: "Ophisaurus mimicus" ; Times: 1
+	Query: "Ficimia streckeri" ; Times: 2
+	Query: "catalognumber:7347" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "pituophis north carolina" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Clark&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "specificepithet:flagellum genus:Coluber class:Reptilia county:&#34;Ellis&#34; stateprovince:&#34;Kansas&#34; institutioncode:FHSM" ; Times: 1
+	Query: "Trachemys scripta arkansas" ; Times: 2
+	Query: "(10009)" ; Times: 1
+	Query: "Lacerta viridis" ; Times: 1
+	Query: "osteopilus hastissue:1" ; Times: 1
+	Query: "genus:Nerodia county:&#34;Ellis&#34; stateprovince:&#34;Kansas&#34; institutioncode:FHSM" ; Times: 1
+	Query: "specificepithet:holbrooki genus:Lampropeltis county:&#34;Ellis&#34; stateprovince:&#34;Kansas&#34; institutioncode:FHSM" ; Times: 1
+	Query: "FICIMIA STRECKERI" ; Times: 2
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Putnam&#34; stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "genus:Pituophis class:Reptilia county:&#34;Saline&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "specificepithet:cinereus genus:Plethodon county:&#34;Athens&#34; stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Carteret&#34; stateprovince:&#34;North carolina&#34;" ; Times: 1
+	Query: "specificepithet:tergeminus genus:Sistrurus county:&#34;Russell&#34; stateprovince:&#34;Kansas&#34;" ; Times: 3
+	Query: "genus:Diadophis stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "genus:Diadophis county:&#34;Cherokee&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Barton&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Little River&#34; stateprovince:&#34;Arkansas&#34;" ; Times: 3
+	Query: "specificepithet:calligaster genus:Lampropeltis county:&#34;Ellis&#34; stateprovince:&#34;Kansas&#34; institutioncode:FHSM" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Comanche&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "specificepithet:Cadaverina county:&#34;San Luis Obispo&#34;" ; Times: 1
+	Query: "specificepithet:tergeminus genus:Sistrurus county:&#34;Saline&#34; stateprovince:&#34;Kansas&#34;" ; Times: 3
+	Query: "genus:Pituophis class:Reptilia county:&#34;Osborne&#34; stateprovince:&#34;Kansas&#34; institutioncode:FHSM" ; Times: 1
+	Query: "genus:Rhadinaea stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "hyla cinerea louisiana" ; Times: 2
+	Query: "genus:Lampropeltis county:&#34;Ellis&#34; stateprovince:&#34;Kansas&#34; institutioncode:FHSM" ; Times: 1
+	Query: "genus:Pituophis class:Reptilia county:&#34;Barton&#34; stateprovince:&#34;Kansas&#34; institutioncode:FHSM" ; Times: 1
+	Query: "genus:Diadophis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Barber&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Ellsworth&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "genus:Diadophis county:&#34;Ellis&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "specificepithet:taeniatus genus:Coluber county:&#34;Inyo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:radix genus:Thamnophis county:&#34;Ellis&#34; stateprovince:&#34;Kansas&#34; institutioncode:FHSM" ; Times: 1
+	Query: "genus:Tantilla county:&#34;Ellis&#34; stateprovince:&#34;Kansas&#34; institutioncode:FHSM" ; Times: 1
+	Query: "genus:Cemophora stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Harris&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;McCurtain&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 4
+	Query: "plethodon websteri mississippi" ; Times: 1
+	Query: "specificepithet:nasicus genus:Heterodon stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:tergeminus genus:Sistrurus county:&#34;Clark&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "Rhadinaea North Carolina" ; Times: 1
+	Query: "specificepithet:tener genus:Micrurus" ; Times: 1
+	Query: "sistrurus county:&#34;butler&#34;" ; Times: 1
+	Query: "Phrynosoma blainvilli" ; Times: 1
+	Query: "scincella lateralis louisiana" ; Times: 3
+	Query: "W. J. Irwin" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Russell&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "specificepithet:tergeminus genus:Sistrurus stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "class:amphibia county:&#34;Elliott&#34; stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "specificepithet:triangulum genus:Lampropeltis stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "genus:Crotalus stateprovince:&#34;Kansas&#34; institutioncode:FHSM" ; Times: 1
+	Query: "genus:Pituophis class:Reptilia county:&#34;Trego&#34; stateprovince:&#34;Kansas&#34; institutioncode:FHSM" ; Times: 1
+	Query: "specificepithet:flagellicaudus genus:Aspidoscelis" ; Times: 2
+	Query: "class:reptilia catalognumber:7347" ; Times: 1
+	Query: "specificepithet:sequoyah genus:Plethodon" ; Times: 1
+	Query: "specificepithet:blanchardi genus:acris stateprovince:&#34;louisiana&#34;" ; Times: 3
+	Query: "Pseudacris crucifer Scott County" ; Times: 1
+	Query: "Rena dissecta" ; Times: 1
+	Query: "class:amphibia county:&#34;lewis&#34; stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "genus:Pituophis class:Reptilia county:&#34;Russell&#34; stateprovince:&#34;Kansas&#34; institutioncode:FHSM" ; Times: 1
+	Query: "Eleutherodactylus cystignathoides" ; Times: 1
+	Query: "chelydra serpentina mississippi" ; Times: 1
+	Query: "genus:ficimia stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:tergeminus genus:Sistrurus county:&#34;Lincoln&#34; stateprovince:&#34;Kansas&#34;" ; Times: 2
+	Query: "specificepithet:Zonata genus:Lampropeltis county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "plethodon websteri Mississippi" ; Times: 1
+	Query: "specificepithet:triangulum genus:Lampropeltis stateprovince:&#34;South Dakota&#34;" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis county:&#34;Ellis&#34; stateprovince:&#34;Kansas&#34; institutioncode:FHSM" ; Times: 1
+	Query: "lithobates clamitans louisiana" ; Times: 1
+	Query: "genus:Diadophis county:&#34;Russell&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Ellis&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "genus:Coluber class:Reptilia county:&#34;Ellis&#34; stateprovince:&#34;Kansas&#34; institutioncode:FHSM" ; Times: 1
+	Query: "specificepithet:caddoensis genus:Plethodon stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "specificepithet:lepidus genus:Crotalus county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:Kinosternon hastissue:1" ; Times: 2
+	Query: "genus:Sistrurus county:&#34;Harper&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Lincoln&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Sabine&#34; stateprovince:&#34;Louisiana&#34;" ; Times: 2
+	Query: "specificepithet:tergeminus genus:Sistrurus county:&#34;Meade&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "specificepithet:pholeter genus:amphiuma" ; Times: 3
+	Query: "pantherophis guttatus orange florida" ; Times: 2
+	Query: "genus:Sistrurus stateprovince:&#34;Kansas&#34;" ; Times: 6
+	Query: "specificepithet:tergeminus genus:Sistrurus county:&#34;Mitchell&#34; stateprovince:&#34;Kansas&#34;" ; Times: 2
+	Query: "Anaxyrus retiformis" ; Times: 4
+	Query: "specificepithet:scutulatus genus:Crotalus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:concinna genus:pseudemys stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Aspidoscelis flagellicaudus" ; Times: 2
+	Query: "specificepithet:nasicus genus:Heterodon stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Natchitoches&#34; stateprovince:&#34;Louisiana&#34;" ; Times: 2
+	Query: "specificepithet:tigris genus:Crotalus" ; Times: 1
+	Query: "specificepithet:tergeminus genus:Sistrurus county:&#34;Ellis&#34; stateprovince:&#34;Kansas&#34;" ; Times: 3
+	Query: "specificepithet:tergeminus genus:Sistrurus county:&#34;Ellsworth&#34; stateprovince:&#34;Kansas&#34;" ; Times: 3
+	Query: "specificepithet:kiamichi genus:Plethodon" ; Times: 2
+	Query: "Pantherophis ramspotti" ; Times: 1
+	Query: "class:reptilia county:&#34;powell&#34; stateprovince:&#34;Kentucky&#34;" ; Times: 2
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;South Dakota&#34;" ; Times: 1
+	Query: "Pseudacris hypochondriaca" ; Times: 1
+	Query: "genus:Pituophis class:Reptilia county:&#34;Ellis&#34; stateprovince:&#34;Kansas&#34; institutioncode:FHSM" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Saline&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "specificepithet:tergeminus genus:Sistrurus county:&#34;Comanche&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "catalognumber:6129" ; Times: 1
+	Query: "genus:Sonora county:&#34;Inyo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;rogers&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Lithobates palmipes" ; Times: 8
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 64 (out of 1171 download events in this period)
+Total number of records downloaded: 3077
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 47
+	Country: Turkey ; Times: 1
+	Country: Australia ; Times: 12
+	Country: Spain ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-19 ; Times: 3
+	Date: 2020-04-18 ; Times: 6
+	Date: 2020-04-13 ; Times: 3
+	Date: 2020-04-12 ; Times: 4
+	Date: 2020-04-10 ; Times: 2
+	Date: 2020-04-16 ; Times: 2
+	Date: 2020-04-15 ; Times: 5
+	Date: 2020-04-22 ; Times: 1
+	Date: 2020-04-06 ; Times: 9
+	Date: 2020-04-27 ; Times: 1
+	Date: 2020-04-02 ; Times: 3
+	Date: 2020-04-03 ; Times: 6
+	Date: 2020-04-29 ; Times: 18
+	Date: 2020-04-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Xantusia henshawi" ; Times: 1
+	Query: "specificepithet:dorsalis genus:plethodon" ; Times: 1
+	Query: "Pseudacris hypochondriaca" ; Times: 1
+	Query: "specificepithet:spiloides genus:Pantherophis" ; Times: 1
+	Query: "Ophisaurus mimicus" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 2
+	Query: "Thamnophis ordinoides" ; Times: 1
+	Query: "Nerodia floridana" ; Times: 1
+	Query: "specificepithet:platirhinos genus:Heterodon" ; Times: 1
+	Query: "specificepithet:mitchellii genus:Crotalus" ; Times: 1
+	Query: "specificepithet:alleghaniensis genus:Pantherophis" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus" ; Times: 2
+	Query: "Charina bottae" ; Times: 1
+	Query: "specificepithet:platyrhinos genus:Heterodon" ; Times: 1
+	Query: "specificepithet:tigris genus:Aspidoscelis" ; Times: 1
+	Query: "Sceloporus tristichus" ; Times: 1
+	Query: "specificepithet:hernandesi genus:Phrynosoma" ; Times: 2
+	Query: "specificepithet:lepidus genus:Crotalus" ; Times: 1
+	Query: "specificepithet:serratus genus:plethodon" ; Times: 1
+	Query: "specificepithet:molossus genus:Crotalus" ; Times: 1
+	Query: "Aspidoscelis flagellicaudus" ; Times: 2
+	Query: "specificepithet:cinereus genus:Plethodon county:&#34;Athens&#34; stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "Pantherophis alleghaniensis" ; Times: 1
+	Query: "specificepithet:suspectum genus:Heloderma" ; Times: 1
+	Query: "specificepithet:JORDANI genus:Plethodon" ; Times: 1
+	Query: "vntype:specimen specificepithet:consobrinus genus:Sceloporus" ; Times: 1
+	Query: "specificepithet:graciosus genus:Sceloporus" ; Times: 1
+	Query: "Lacerta viridis" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus" ; Times: 1
+	Query: "specificepithet:obsoletus genus:Pantherophis" ; Times: 1
+	Query: "specificepithet:tigris genus:Crotalus" ; Times: 1
+	Query: "Anaxyrus boreas" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 3
+	Query: "specificepithet:ruber genus:Crotalus" ; Times: 1
+	Query: "Eleutherodactylus" ; Times: 1
+	Query: "Pantherophis spiloides" ; Times: 1
+	Query: "Pantherophis ramspotti" ; Times: 1
+	Query: "specificepithet:catenifer genus:Pituophis" ; Times: 2
+	Query: "Rena dissecta" ; Times: 1
+	Query: "specificepithet:magister genus:Sceloporus" ; Times: 3
+	Query: "(Dipsadidae) hastissue:1" ; Times: 1
+	Query: "specificepithet:melanoleucus genus:Pituophis" ; Times: 1
+	Query: "specificepithet:lecontei genus:Rhinocheilus" ; Times: 1
+	Query: "crotalus atrox" ; Times: 1
+	Query: "plethodon dorsalis" ; Times: 2
+	Query: "caiman crocodilus" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus" ; Times: 1
+	Query: "specificepithet:platyrhinos genus:Phrynosoma" ; Times: 2
+	Query: "specificepithet:nasicus genus:Heterodon" ; Times: 1
+	Query: "vntype:specimen genus:Sceloporus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Lampropeltis holbrooki" ; Times: 1
+	Query: "Rhyacotriton" ; Times: 1
+
+
+End of report.
