@@ -1,0 +1,153 @@
+Report for Institution Code FHSM, Resource fhsm_herps
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 71
+Number of records retrieved in searches: 678
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 57
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-19 ; Times: 3
+	Date: 2020-10-08 ; Times: 1
+	Date: 2020-10-12 ; Times: 3
+	Date: 2020-10-13 ; Times: 6
+	Date: 2020-10-11 ; Times: 2
+	Date: 2020-10-30 ; Times: 14
+	Date: 2020-10-31 ; Times: 1
+	Date: 2020-10-14 ; Times: 1
+	Date: 2020-10-15 ; Times: 1
+	Date: 2020-10-28 ; Times: 2
+	Date: 2020-10-09 ; Times: 6
+	Date: 2020-10-22 ; Times: 1
+	Date: 2020-10-20 ; Times: 4
+	Date: 2020-10-27 ; Times: 2
+	Date: 2020-10-26 ; Times: 2
+	Date: 2020-10-25 ; Times: 2
+	Date: 2020-10-24 ; Times: 1
+	Date: 2020-10-01 ; Times: 2
+	Date: 2020-10-03 ; Times: 5
+	Date: 2020-10-02 ; Times: 1
+	Date: 2020-10-05 ; Times: 4
+	Date: 2020-10-07 ; Times: 1
+	Date: 2020-10-17 ; Times: 1
+	Date: 2020-10-06 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:scaphiopus recordedby:Curtis" ; Times: 1
+	Query: "Bison Bison Kansas" ; Times: 2
+	Query: "genus:Trachemys hastissue:1" ; Times: 3
+	Query: "specificepithet:ocularis stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:cinerea stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "genus: Rhadinaea hastissue:1" ; Times: 4
+	Query: "mappable:1 scientificname:Gopherus polyphemus" ; Times: 1
+	Query: "specificepithet:helleri genus:crotalus county:&#34;san diego&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34; (sistrurus)" ; Times: 2
+	Query: "genus:Aneides specificepithet:aeneus" ; Times: 1
+	Query: "Ambystoma talpoideum stateprovince:&#34;south carolina&#34; year &gt;= 1900 year &lt;= 2020" ; Times: 1
+	Query: "genus:Senticolis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Terrapene carolina stateprovince:&#34;Oklahoma&#34;" ; Times: 4
+	Query: "stateprovince:&#34;Texas&#34; (tergeminus)" ; Times: 2
+	Query: "specificepithet:bairdi genus:Pantherophis" ; Times: 1
+	Query: "genus:charina county:&#34;contra costa&#34;" ; Times: 1
+	Query: "recordedby:Labedz" ; Times: 2
+	Query: "genus:lampropeltis county:&#34;inyo&#34;" ; Times: 1
+	Query: "genus:Pantherophis stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "genus:Necturus stateprovince:&#34;Kansas&#34;" ; Times: 2
+	Query: "specificepithet:molossus genus:Crotalus county:&#34;Terrell&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "class:Reptilia county:&#34;San Patricio&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:pituophis stateprovince:&#34;North carolina&#34;" ; Times: 1
+	Query: "specificepithet:zonata genus:lampropeltis month &gt;= 9 month &lt;= 11" ; Times: 1
+	Query: "Crotalus tigris" ; Times: 1
+	Query: "12803" ; Times: 1
+	Query: "Sistrurus tergeminus" ; Times: 1
+	Query: "specificepithet:sequoyah genus:Plethodon" ; Times: 1
+	Query: "specificepithet:hurterii genus:scaphiopus recordedby:Curtis" ; Times: 1
+	Query: "institutioncode:FHSM hastissue:1" ; Times: 1
+	Query: "retiformis pima" ; Times: 3
+	Query: "genus: carphophis hastissue:1" ; Times: 3
+	Query: "genus: rhadinaea hastissue:1" ; Times: 1
+	Query: "gbifdatasetid:84e823d2-f762-11e1-a439-00145eb45e9a" ; Times: 1
+	Query: "genus:pantherophis stateprovince:&#34;Kentucky&#34;" ; Times: 2
+	Query: "genus:trimorphodon county:&#34;riverside&#34;" ; Times: 1
+	Query: "class:Amphibia county:&#34;cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Eleutherodactylus cystignathoides" ; Times: 13
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 44 (out of 1521 download events in this period)
+Total number of records downloaded: 2181
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 38
+	Country: Unknown ; Times: 2
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 5
+	Date: 2020-10-20 ; Times: 1
+	Date: 2020-10-01 ; Times: 4
+	Date: 2020-10-05 ; Times: 9
+	Date: 2020-10-03 ; Times: 3
+	Date: 2020-10-02 ; Times: 2
+	Date: 2020-10-30 ; Times: 5
+	Date: 2020-10-17 ; Times: 1
+	Date: 2020-10-14 ; Times: 1
+	Date: 2020-10-06 ; Times: 6
+	Date: 2020-10-12 ; Times: 1
+	Date: 2020-10-28 ; Times: 1
+	Date: 2020-10-15 ; Times: 3
+	Date: 2020-10-10 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "order:caudata stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "crotalus molossus" ; Times: 1
+	Query: "sternotherus odoratus" ; Times: 1
+	Query: "Pseudemys concinna" ; Times: 1
+	Query: "class:Reptilia county:&#34;San Patricio&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Nueces&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "opheodrys vernalis" ; Times: 1
+	Query: "Macrochelys temminckii" ; Times: 1
+	Query: "Opheodrys aestivus" ; Times: 1
+	Query: "Chionactis occipitalis" ; Times: 1
+	Query: "Agkistrodon" ; Times: 1
+	Query: "order:caudata stateprovince:&#34;mississippi&#34;" ; Times: 1
+	Query: "specificepithet:occidentalis genus:sceloporus stateprovince:&#34;california&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:sequoyah genus:Plethodon" ; Times: 1
+	Query: "genus:hypsiglena stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "order:squamata stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "order:SQUAMATA stateprovince:&#34;mississippi&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Travis&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Aransas&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "spea multiplicata" ; Times: 1
+	Query: "genus:Anolis stateprovince:&#34;Florida&#34; hastissue:1" ; Times: 1
+	Query: "desmognathus auriculatus" ; Times: 1
+	Query: "Lampropeltis elapsoides" ; Times: 1
+	Query: "vntype:specimen specificepithet:pipiens genus:Lithobates" ; Times: 1
+	Query: "Gambelia wislizenii" ; Times: 1
+	Query: "Desmognathus monticola" ; Times: 1
+	Query: "order:testudines distance(location,geopoint(32.68200357712817,-89.55322265625))&lt;161220" ; Times: 1
+	Query: "class:Reptilia county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "hyla femoralis" ; Times: 1
+	Query: "plethodon vehiculum" ; Times: 1
+	Query: "Anolis sagrei" ; Times: 1
+	Query: "Nerodia erythrogaster" ; Times: 2
+	Query: "order:Caudata hastissue:1" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "order:testudines stateprovince:&#34;mississippi&#34;" ; Times: 1
+	Query: "Ophisaurus attenuatus" ; Times: 1
+	Query: "spea bombifrons" ; Times: 1
+	Query: "Desmognathus auriculatus" ; Times: 2
+	Query: "genus:gastrophryne stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "Terrapene carolina stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "class:Amphibia county:&#34;cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Scaphiopus holbrookii" ; Times: 1
+
+
+End of report.
