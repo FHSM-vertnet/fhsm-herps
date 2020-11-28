@@ -1,0 +1,244 @@
+Report for Institution Code FHSM, Resource fhsm_herps
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 372
+Number of records retrieved in searches: 2906
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 368
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 7
+	Date: 2020-07-08 ; Times: 9
+	Date: 2020-07-21 ; Times: 4
+	Date: 2020-07-20 ; Times: 6
+	Date: 2020-07-27 ; Times: 1
+	Date: 2020-07-26 ; Times: 1
+	Date: 2020-07-25 ; Times: 2
+	Date: 2020-07-22 ; Times: 6
+	Date: 2020-07-01 ; Times: 2
+	Date: 2020-07-29 ; Times: 44
+	Date: 2020-07-02 ; Times: 14
+	Date: 2020-07-05 ; Times: 9
+	Date: 2020-07-04 ; Times: 1
+	Date: 2020-07-07 ; Times: 35
+	Date: 2020-07-06 ; Times: 4
+	Date: 2020-07-24 ; Times: 5
+	Date: 2020-07-23 ; Times: 5
+	Date: 2020-07-18 ; Times: 2
+	Date: 2020-07-28 ; Times: 5
+	Date: 2020-07-12 ; Times: 3
+	Date: 2020-07-13 ; Times: 4
+	Date: 2020-07-10 ; Times: 2
+	Date: 2020-07-11 ; Times: 3
+	Date: 2020-07-30 ; Times: 58
+	Date: 2020-07-31 ; Times: 114
+	Date: 2020-07-14 ; Times: 16
+	Date: 2020-07-17 ; Times: 1
+	Date: 2020-07-15 ; Times: 8
+	Date: 2020-07-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Desmognathus welteri" ; Times: 3
+	Query: "Eurycea longicauda" ; Times: 2
+	Query: "specificepithet:poinsettii genus:Sceloporus county:&#34;Grant&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "Crotalus lepidus" ; Times: 2
+	Query: "Plethodon variolatus" ; Times: 2
+	Query: "specificepithet:elegans genus:Sphaerodactylus" ; Times: 114
+	Query: "genus:Desmognathus stateprovince:&#34;Florida&#34; year &gt;= 2000" ; Times: 3
+	Query: "lithobates sphenocephalus crawford kansas" ; Times: 1
+	Query: "specificepithet:neotesselatus" ; Times: 1
+	Query: "regina grahamii" ; Times: 9
+	Query: "lithobates catesbeianus cherokee kansas" ; Times: 2
+	Query: "Plethodon ouachitae" ; Times: 3
+	Query: "Eurycea spelaea" ; Times: 2
+	Query: "thamnophis radix south dakota" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "Nerodia rhombifer Crawford kansas" ; Times: 1
+	Query: "Nerodia erythrogaster cherokee kansas" ; Times: 2
+	Query: "Plethodon grobmani" ; Times: 5
+	Query: "Desmognathus conanti" ; Times: 1
+	Query: "Hemidactylium scutatum" ; Times: 2
+	Query: "Plethodon kisatchie" ; Times: 2
+	Query: "Nerodia rhombifer crawford kansas" ; Times: 1
+	Query: "specificepithet:zonata genus:Lampropeltis stateprovince:&#34;California&#34; year &gt;= 2001 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:mimicus genus:Ophisaurus stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Plethodon websteri" ; Times: 2
+	Query: "Desmognathus auriculatus" ; Times: 2
+	Query: "Pseudacris brachyphona FHSM" ; Times: 1
+	Query: "pipiens missouri" ; Times: 3
+	Query: "Desmognathus brimleyorum" ; Times: 1
+	Query: "Acris blanchardi Crawford Kansas" ; Times: 1
+	Query: "crotalus tigris" ; Times: 1
+	Query: "catalognumber:2201 year &gt;= 1932" ; Times: 1
+	Query: "crotalus lepidus arizona" ; Times: 1
+	Query: "Aneides hardii" ; Times: 7
+	Query: "Lithobates sphenocephalus Crawford Kansas" ; Times: 1
+	Query: "Eurycea lucifuga" ; Times: 2
+	Query: "Plethodon fourchensis" ; Times: 2
+	Query: "genus:sternotherus county:&#34;crawford&#34; stateprovince:&#34;kansas&#34;" ; Times: 1
+	Query: "Lithobates catesbeianus Cherokee Kansas" ; Times: 2
+	Query: "Eurycea guttolineata" ; Times: 2
+	Query: "stateprovince:&#34;Ohio&#34; (contortrix)" ; Times: 4
+	Query: "Ophisaurus mimicus" ; Times: 1
+	Query: "catalognumber:12598 institutioncode:FHSM" ; Times: 2
+	Query: "catalognumber:7478" ; Times: 1
+	Query: "Aneides aeneus" ; Times: 11
+	Query: "lithobates catesbeianus newton missouri" ; Times: 1
+	Query: "Eurycea bislineata" ; Times: 1
+	Query: "Plethodon mississippi" ; Times: 3
+	Query: "genus:Necturus stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "catalognumber:10805 institutioncode:FHSM" ; Times: 3
+	Query: "Hyla avivoca" ; Times: 1
+	Query: "specificepithet:americanus genus:Anaxyrus hastissue:1" ; Times: 1
+	Query: "Desmognathus monticola" ; Times: 2
+	Query: "Eurycea cirrigera" ; Times: 4
+	Query: "Trachemys scripta Cherokee Kansas" ; Times: 1
+	Query: "specificepithet:areolatus class:Amphibia country:&#34;United States&#34;" ; Times: 2
+	Query: "Clonophis kirtlandii" ; Times: 2
+	Query: "Nerodia erythrogaster crawford kansas" ; Times: 2
+	Query: "catalognumber:8072 institutioncode:FHSM" ; Times: 2
+	Query: "genus:Necturus stateprovince:&#34;Florida&#34; year &gt;= 2000" ; Times: 1
+	Query: "Nerodia Missouri" ; Times: 1
+	Query: "genus:Necturus stateprovince:&#34;Florida&#34; year &gt;= 1990" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Nebraska&#34; year &gt;= 2000" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Nebraska&#34; distance(location,geopoint(42.12847771467785,-101.38375592358057))&lt;61227" ; Times: 1
+	Query: "genus:sternotherus county:&#34;cherokee&#34; stateprovince:&#34;kansas&#34;" ; Times: 1
+	Query: "genus:Sonora county:&#34;Clark&#34; stateprovince:&#34;Kansas&#34; institutioncode:FHSM" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Tennessee&#34;" ; Times: 2
+	Query: "Nerodia rhombifer cherokee kansas" ; Times: 2
+	Query: "catalognumber:9662 institutioncode:FHSM" ; Times: 2
+	Query: "Lithobates sphenocephalus Newton Missouri" ; Times: 1
+	Query: "Nerodia erythrogaster Cherokee kansas" ; Times: 1
+	Query: "Nerodia rhombifer Missouri" ; Times: 1
+	Query: "gbifdatasetid:84e823d2-f762-11e1-a439-00145eb45e9a" ; Times: 2
+	Query: "genus:charina county:&#34;tulare&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Warfel Colorado" ; Times: 4
+	Query: "Lithobates catesbeianus Crawford Kansas" ; Times: 1
+	Query: "warfel" ; Times: 2
+	Query: "genus:apalone county:&#34;cherokee&#34; stateprovince:&#34;kansas&#34;" ; Times: 1
+	Query: "genus:Diadophis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Eurycea multiplicata" ; Times: 2
+	Query: "Riverside county charina" ; Times: 1
+	Query: "family:Scincidae class:Reptilia stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Plethodon sequoyah" ; Times: 2
+	Query: "catalognumber:12915 institutioncode:FHSM" ; Times: 3
+	Query: "lithobates catesbeianus crawford kansas" ; Times: 1
+	Query: "genus:Osteopilus stateprovince:&#34;Florida&#34; year &gt;= 2000 hastissue:1" ; Times: 1
+	Query: "class:Reptilia locality:Bakersfield county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Lithobates sphenocephalus Cherokee Kansas" ; Times: 1
+	Query: "Desmognathus folkertsi" ; Times: 3
+	Query: "recordedby:Labedz" ; Times: 2
+	Query: "Lichanura trivirgata" ; Times: 1
+	Query: "vntype:specimen genus:Sceloporus stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus hastissue:1" ; Times: 1
+	Query: "Plethodon dorsalis" ; Times: 1
+	Query: "Desmognathus apalachicolae" ; Times: 1
+	Query: "Plethodon angusticlavius" ; Times: 2
+	Query: "Pseudotriton ruber" ; Times: 1
+	Query: "Plethodon albagula" ; Times: 3
+	Query: "fhsm eagle" ; Times: 1
+	Query: "Plethodon richmondi" ; Times: 2
+	Query: "vntype:specimen genus:Sceloporus stateprovince:&#34;Arkansas&#34;" ; Times: 2
+	Query: "Plethodon kiamichi" ; Times: 2
+	Query: "miliarius oklahoma" ; Times: 1
+	Query: "13459" ; Times: 1
+	Query: "warfel tim" ; Times: 1
+	Query: "Eleutherodactylus cystignathoides" ; Times: 1
+	Query: "Gyrinophilus porphyriticus" ; Times: 2
+	Query: "genus:Desmognathus specificepithet:folkertsi" ; Times: 1
+	Query: "crotalus lepidus lepidus" ; Times: 1
+	Query: "Regina grahamii" ; Times: 1
+	Query: "lithobates sphenocephalus cherokee kansas" ; Times: 1
+	Query: "Plethodon neomexicanus" ; Times: 2
+	Query: "specificepithet:lepidus genus:Crotalus county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Pseudacris brachyphona" ; Times: 3
+	Query: "FHSM 541" ; Times: 1
+	Query: "Plethodon caddoensis" ; Times: 2
+	Query: "genus:Sonora institutioncode:FHSM" ; Times: 1
+	Query: "specificepithet:fowleri genus:Anaxyrus hastissue:1" ; Times: 1
+	Query: "Lithobates catesbeianus Newton Missouri" ; Times: 1
+	Query: "genus:Pantherophis stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Lampropeltis gentilis" ; Times: 2
+	Query: "Retiformis" ; Times: 2
+	Query: "Nerodia erythrogaster Crawford Kansas" ; Times: 1
+	Query: "Plethodon glutinosus" ; Times: 1
+	Query: "genus:salvadora hastissue:1" ; Times: 2
+	Query: "Plethodon jordani" ; Times: 1
+	Query: "Anaxyrus americanus Crawford kansas" ; Times: 1
+	Query: "Thamnophis rufipunctatus" ; Times: 1
+	Query: "Plethodon vehiculum" ; Times: 2
+	Query: "catalognumber:13596 institutioncode:FHSM" ; Times: 3
+	Query: "genus:Graptemys stateprovince:&#34;Kentucky&#34;" ; Times: 6
+	Query: "Plethodon serratus" ; Times: 4
+	Query: "Plethodon chlorobryonis" ; Times: 2
+	Query: "Eurycea quadridigitata" ; Times: 1
+	Query: "Acris blanchardi Cherokee kansas" ; Times: 2
+	Query: "Plethodon electromorphus" ; Times: 2
+	Query: "specificepithet:taeniatus class:reptilia stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "warfel colorado" ; Times: 6
+	Query: "Pseudacris kalmi" ; Times: 1
+	Query: "Anaxyrus americanus Cherokee kansas" ; Times: 3
+	Query: "Regina Cherokee County Kansas" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 940 download events in this period)
+Total number of records downloaded: 9306
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 20
+	Country: Australia ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 5
+	Date: 2020-07-23 ; Times: 1
+	Date: 2020-07-19 ; Times: 1
+	Date: 2020-07-25 ; Times: 1
+	Date: 2020-07-24 ; Times: 1
+	Date: 2020-07-13 ; Times: 5
+	Date: 2020-07-30 ; Times: 1
+	Date: 2020-07-31 ; Times: 4
+	Date: 2020-07-07 ; Times: 2
+	Date: 2020-07-04 ; Times: 1
+	Date: 2020-07-22 ; Times: 1
+	Date: 2020-07-20 ; Times: 1
+	Date: 2020-07-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "viperidae" ; Times: 1
+	Query: "stateprovince:&#34;Ohio&#34; (contortrix)" ; Times: 1
+	Query: "vntype:specimen genus:Sceloporus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "elapidae" ; Times: 1
+	Query: "Plethodon vehiculum" ; Times: 1
+	Query: "Storeria dekayi" ; Times: 1
+	Query: "specificepithet:mazatlanensis family:bufonidae" ; Times: 1
+	Query: "spea multiplicata" ; Times: 1
+	Query: "genus:Incilius" ; Times: 1
+	Query: "specificepithet:pretiosa genus:rana" ; Times: 1
+	Query: "vntype:specimen genus:Sceloporus stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "specificepithet:hernandesi genus:phrynosoma" ; Times: 1
+	Query: "Anolis sagrei" ; Times: 1
+	Query: "Natricidae" ; Times: 1
+	Query: "Osteopilus septentrionalis" ; Times: 1
+	Query: "Colubridae" ; Times: 1
+	Query: "order:Squamata stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:valliceps family:bufonidae" ; Times: 1
+	Query: "vntype:specimen genus:Sceloporus stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "Aspidoscelis guttatus" ; Times: 1
+	Query: "vntype:specimen genus:Sceloporus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "genus:Trachemys" ; Times: 1
+	Query: "Chelydra serpentina" ; Times: 1
+	Query: "coluber constrictor" ; Times: 1
+
+
+End of report.
