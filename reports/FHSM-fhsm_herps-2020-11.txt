@@ -1,0 +1,177 @@
+Report for Institution Code FHSM, Resource fhsm_herps
+Usage stats for November 2020, generated on 2020/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 114
+Number of records retrieved in searches: 1334
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United Kingdom ; Times: 18
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 20
+	Country: Unknown ; Times: 12
+	Country: France ; Times: 1
+	Country: United States ; Times: 49
+	Country: Sweden ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-20 ; Times: 2
+	Date: 2020-11-02 ; Times: 8
+	Date: 2020-11-05 ; Times: 3
+	Date: 2020-11-19 ; Times: 2
+	Date: 2020-11-18 ; Times: 6
+	Date: 2020-11-26 ; Times: 6
+	Date: 2020-11-30 ; Times: 5
+	Date: 2020-11-06 ; Times: 1
+	Date: 2020-11-07 ; Times: 1
+	Date: 2020-11-04 ; Times: 18
+	Date: 2020-11-16 ; Times: 8
+	Date: 2020-11-09 ; Times: 4
+	Date: 2020-11-13 ; Times: 3
+	Date: 2020-11-12 ; Times: 28
+	Date: 2020-11-27 ; Times: 3
+	Date: 2020-11-11 ; Times: 4
+	Date: 2020-11-14 ; Times: 3
+	Date: 2020-11-24 ; Times: 2
+	Date: 2020-11-25 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Chrysemys picta Nebraska" ; Times: 1
+	Query: "genus:Pituophis preparations:skeleton" ; Times: 3
+	Query: "Thamnophis radix stateprovince:&#34;Nebraska&#34;" ; Times: 2
+	Query: "Kinosternon subrubrum hastissue:1" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "genus:Necturus stateprovince:&#34;Kansas&#34;" ; Times: 6
+	Query: "ambystoma annulatum" ; Times: 1
+	Query: "class:amphibia county:&#34;wolfe&#34; stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "specificepithet:tergeminus genus:Sistrurus county:&#34;Linn&#34; stateprovince:&#34;Missouri&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "annulatum" ; Times: 1
+	Query: "specificepithet:ventralis genus:Ophisaurus stateprovince:&#34;Florida&#34; hastissue:1" ; Times: 3
+	Query: "scientificname:Incilius valliceps" ; Times: 2
+	Query: "crotalus stateprovince:&#34;pennsylvania&#34;" ; Times: 1
+	Query: "specificepithet:obsoletus genus:Pantherophis stateprovince:&#34;Louisiana&#34;" ; Times: 4
+	Query: "genus:Micrurus stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "13425" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "class:reptilia county:&#34;Powell&#34; stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "&#34;Desmognathus folkertsi&#34; vntype:specimen" ; Times: 1
+	Query: "Plestiodon obsoletus nebraska" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus stateprovince:&#34;Missouri&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "scientificname:Anaxyrus punctatus" ; Times: 3
+	Query: "plestiodon obsoletus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "specificepithet:heckscheri hastissue:1" ; Times: 1
+	Query: "genus:Pituophis country:&#34;United States&#34; preparations:skeleton" ; Times: 1
+	Query: "genus:Scincella stateprovince:&#34;Florida&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:inexpectatus genus:Plestiodon stateprovince:&#34;Florida&#34; hastissue:1" ; Times: 2
+	Query: "specificepithet:miliarius genus:Sistrurus stateprovince:&#34;Missouri&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Thamnophis radix county:&#34;Jefferson&#34; stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "specificepithet:mimicus genus:Ophisaurus stateprovince:&#34;Florida&#34; hastissue:1" ; Times: 1
+	Query: "genus:Thamnophis stateprovince:&#34;Louisiana&#34;" ; Times: 2
+	Query: "genus:Pantherophis stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "specificepithet:merriami genus:Sceloporus county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "pseudacris maculata stateprovince:&#34;Nebraska&#34; year &gt;= 1970" ; Times: 1
+	Query: "genus:Agkistrodon stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "specificepithet:arenicolor family:Hylidae stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Macrochelys temminckii hastissue:1" ; Times: 1
+	Query: "Incilius valliceps" ; Times: 1
+	Query: "Lampropeltis gentilis" ; Times: 1
+	Query: "specificepithet:tergeminus genus:Sistrurus stateprovince:&#34;Missouri&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:tergeminus genus:Sistrurus county:&#34;Chariton&#34; stateprovince:&#34;Missouri&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "opheodrys vernalis north dakota" ; Times: 1
+	Query: "genus:Farancia stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "Chelydra serpentina hastissue:1" ; Times: 1
+	Query: "genus:Agkistrodon stateprovince:&#34;Ohio&#34; basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "crotalus horridus Tennessee" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;Louisiana&#34;" ; Times: 2
+	Query: "Ambystoma talpoideum stateprovince:&#34;south carolina&#34; year &gt;= 1900 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:laticeps genus:Plestiodon stateprovince:&#34;Florida&#34; hastissue:1" ; Times: 3
+	Query: "scientificname:Hyla eximia" ; Times: 1
+	Query: "specificepithet:lateralis genus:Scincella stateprovince:&#34;Florida&#34; hastissue:1" ; Times: 2
+	Query: "scientificname:Hyla arenicolor" ; Times: 2
+	Query: "catalognumber:5627" ; Times: 1
+	Query: "scientificname:Lithobates chiricahuensis" ; Times: 1
+	Query: "scientificname:Scaphiopus couchii" ; Times: 3
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "13603" ; Times: 1
+	Query: "genus:storeria stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus county:&#34;Wayne&#34; stateprovince:&#34;Missouri&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Rena dissecta" ; Times: 2
+	Query: "specificepithet:tergeminus genus:Sistrurus county:&#34;Chariton&#34; stateprovince:&#34;Missouri&#34; year &gt;= 1941 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;Kansas&#34; country:&#34;United States&#34; preparations:skeleton" ; Times: 1
+	Query: "specificepithet:websteri genus:Plethodon stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "14187" ; Times: 1
+	Query: "scientificname:Anaxyrus cognatus" ; Times: 6
+	Query: "specificepithet:sequoyah genus:Plethodon" ; Times: 5
+	Query: "scientificname:Anaxyrus debilis" ; Times: 2
+	Query: "Warfel colorado" ; Times: 2
+	Query: "genus:Agkistrodon county:&#34;Hamilton&#34; stateprovince:&#34;Ohio&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:amphibia county:&#34;Powell&#34; stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "class:amphibia county:&#34;menifee&#34; stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Grundy&#34; stateprovince:&#34;Missouri&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;Kansas&#34; preparations:skeleton" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 30 (out of 842 download events in this period)
+Total number of records downloaded: 2837
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 3
+	Country: India ; Times: 1
+	Country: United States ; Times: 21
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-20 ; Times: 1
+	Date: 2020-11-05 ; Times: 3
+	Date: 2020-11-24 ; Times: 1
+	Date: 2020-11-18 ; Times: 3
+	Date: 2020-11-26 ; Times: 3
+	Date: 2020-11-30 ; Times: 1
+	Date: 2020-11-06 ; Times: 4
+	Date: 2020-11-07 ; Times: 1
+	Date: 2020-11-04 ; Times: 3
+	Date: 2020-11-16 ; Times: 3
+	Date: 2020-11-10 ; Times: 2
+	Date: 2020-11-13 ; Times: 1
+	Date: 2020-11-12 ; Times: 1
+	Date: 2020-11-27 ; Times: 2
+	Date: 2020-11-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Eurycea guttolineata" ; Times: 1
+	Query: "Opheodrys aestivus" ; Times: 1
+	Query: "specificepithet:ventralis genus:Ophisaurus stateprovince:&#34;Florida&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:variegatus genus:coleonyx" ; Times: 1
+	Query: "Bison bison" ; Times: 1
+	Query: "specificepithet:viridis genus:crotalus year &gt;= 1970 year &lt;= 2020" ; Times: 1
+	Query: "eublepharidae" ; Times: 1
+	Query: "Anaxyrus americanus americanus" ; Times: 1
+	Query: "Trachemys" ; Times: 1
+	Query: "Phrynosoma hernandesi" ; Times: 1
+	Query: "opheodrys aestivus" ; Times: 1
+	Query: "plethodon neomexicanus" ; Times: 3
+	Query: "cope" ; Times: 1
+	Query: "Plethodon glutinosus" ; Times: 1
+	Query: "Desmognathus fuscus" ; Times: 1
+	Query: "hyla chrysoscelis" ; Times: 2
+	Query: "crotalus viridis" ; Times: 2
+	Query: "specificepithet:laticeps genus:Plestiodon stateprovince:&#34;Florida&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:lateralis genus:Scincella stateprovince:&#34;Florida&#34; hastissue:1" ; Times: 1
+	Query: "Pseudotriton ruber" ; Times: 1
+	Query: "Crotalus adamanteus" ; Times: 1
+	Query: "vntype:specimen specificepithet:catesbeianus genus:Lithobates" ; Times: 1
+	Query: "chrysoscelis" ; Times: 1
+	Query: "genus:trachemys hassex:1" ; Times: 1
+	Query: "Desmognathus ochrophaeus" ; Times: 1
+	Query: "Eleutherodactylus planirostris" ; Times: 1
+
+
+End of report.
